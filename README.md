@@ -1,2 +1,2 @@
 ### hello -> world();
-## everyone told me to make a readme.md so here we go
+![Darren's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarrenOfficial&count_private=true)
