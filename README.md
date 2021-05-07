@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/AMD-Radeon_RX_6900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
 
 ## IDE
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white" />
 
 ## I code in these language
 
