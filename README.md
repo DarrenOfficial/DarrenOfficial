@@ -3,8 +3,6 @@
 
 ![Darren's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarrenOfficial&count_private=true&theme=tokyonight&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarrenOfficial&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 ## My OS
 **Main OS** : <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 
