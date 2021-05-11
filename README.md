@@ -12,13 +12,6 @@
 
 **VM 3** : <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
 
-### system info
-<img src="https://img.shields.io/badge/Intel-Core_i9_9900k-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-
-<img src="https://img.shields.io/badge/NVIDIA-RTX3090-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-
-<img src="https://img.shields.io/badge/AMD-Radeon_RX_6900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-
 ## IDE
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white" />
 
