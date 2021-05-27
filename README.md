@@ -1,4 +1,5 @@
 ### i use arch btw
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DarrenOfficial&label=Profile%20views&color=0e75b6&style=flat" alt="nadirabbas" /> </p>
 [![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com)
 
 ![Darren's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarrenOfficial&count_private=true&theme=tokyonight&show_icons=true)
