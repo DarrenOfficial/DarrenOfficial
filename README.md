@@ -1,4 +1,3 @@
-### i use arch btw
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DarrenOfficial&label=Profile%20views&color=0e75b6&style=flat" alt="nadirabbas" /> </p>
 
 <img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=DarrenOfficial&show_icons=true&count_private=true&bg_color=00000000&title_color=7F7F7F&icon_color=7F7F7F&text_color=7F7F7F" />
