@@ -4,7 +4,7 @@
 - 🌱 I’m currently coding in Javascript, Java, C++, and Python.  
   
 
-- ❓  I am in love with playing server hardware, I also love helping!.
+- ❓  I am in love playing with server hardware, and discovering something new!.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DarrenOfficial&label=Profile%20views&color=0e75b6&style=flat" alt="nadirabbas" /> </p>
@@ -14,18 +14,3 @@
 ## IDE
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white" />
 
-## Sponsors
-
-### BEST STORE | ShopNathan.com
-ShopNathan is our first and probably most important sponsor!
-
-**What they are offering:**
-> Quality Accounts
-> Cheapest Account compared to other store.
-> Fast delivery
-
-**Discord Server:**
-[https://discord.gg/QEwfWQNvJm](https://discord.gg/QEwfWQNvJm)
-
-**Website:**
-[https://shopnathan.com/](https://shopnathan.com/])
