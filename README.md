@@ -1,12 +1,12 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DarrenOfficial&label=Profile%20views&color=0e75b6&style=flat" alt="nadirabbas" /> </p>
 
-### <div align="center">Hello world. I'm Darren, mainly a Minecraft Plug-in Developer 👨‍💻 working peacefully since 2018 on Servers 🚀</div>  
+### <div align="center">Hello world. I'm Darren, a backend developer 👨‍💻 working peacefully since 2018 on Servers 🚀</div>  
   
 
 - 🌱 I’m currently coding in Javascript, Java, C++, and Python.  
   
 
-- ❓  I am in love playing with server hardware, and discovering something new!.
+- ❓  I am in love playing with server hardware, and VM.
 
 
 
