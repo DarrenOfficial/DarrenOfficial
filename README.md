@@ -13,3 +13,19 @@
 
 ## IDE
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white" />
+
+## Sponsors
+
+### BEST STORE | ShopNathan.com
+ShopNathan is our first and probably most important sponsor!
+
+**What they are offering:**
+> Quality Accounts
+> Cheapest Account compared to other store.
+> Fast delivery
+
+**Discord Server:**
+[https://discord.gg/QEwfWQNvJm](https://discord.gg/QEwfWQNvJm)
+
+**Website:**
+[https://shopnathan.com/](https://shopnathan.com/])
