@@ -24,3 +24,8 @@
 - Reddit: [DarrenOfficial](https://reddit.com/u/DarrenOfficiallol)
 - Github: [DarrenOfficial](https://github.com/DarrenOfficial)
 - Twitter: [DarrenNathans](https://twitter.com/DarrenNathans)
+
+
+---
+
+<img alt="twitter" src="https://github-readme-twitter.gazf.vercel.app/api?id=DarrenNathans&layout=wide" />
