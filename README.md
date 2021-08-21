@@ -3,10 +3,10 @@
 ### <div align="center">Hello world. I'm Darren, a backend developer 👨‍💻</div>  
   
 
-- 🌱 I’m currently coding in Javascript, Java, C++, and Python.  
+- 🌱 I’m currently coding in Javascript, Java, C++. 
   
 
-- ❓  I am in love playing with server hardware, and VM.
+- ❓ I love playing with server hardware, and VM.
 
 
 
