@@ -5,6 +5,9 @@
 
 - 🌱 I’m currently coding in Javascript, Java, C++. 
   
+  
+- Snort code everyday.
+  
 
 - ❓ I love playing with server hardware, and VM.
 
