@@ -35,4 +35,9 @@
 
 # RSS Feed
 <!-- BLOG-POST-LIST:START -->
+- [Bring your own motd! BYOM](https://melonhause.com/threads/bring-your-own-motd-byom.7/)
+- [Is server good?](https://melonhause.com/threads/is-server-good.6/)
+- [Single File Cache Purging Delays](https://darrennathanael.com/community/threads/single-file-cache-purging-delays.115/)
+- [We’re Opened!](https://melonhause.com/threads/we%E2%80%99re-opened.5/)
+- [Issues with Magic Transit and BYOIP](https://darrennathanael.com/community/threads/issues-with-magic-transit-and-byoip.114/)
 <!-- BLOG-POST-LIST:END -->
