@@ -33,6 +33,6 @@
 
 ---
 
-# darrennathanael.com RSS Feed
+# RSS Feed
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
