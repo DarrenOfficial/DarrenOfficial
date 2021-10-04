@@ -29,3 +29,10 @@
 ---
 
 <img alt="twitter" src="https://github-readme-twitter.gazf.vercel.app/api?id=DarrenNathans&layout=wide" />
+
+
+---
+
+# darrennathanael.com RSS Feed
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
