@@ -1,19 +1,24 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DarrenOfficial&label=Profile%20views&color=0e75b6&style=flat" alt="nadirabbas" /> </p>
 
-### <div align="center">Hello world. I'm Darren, a backend developer 👨‍💻</div>  
-  
+### Hello world, I'm Darren, a backend developer 👨‍💻
+I like programming and I like networking and watching data go brrr
 
-- 🌱 I’m currently coding in Javascript, Java, C++. 
-  
-  
-- Snort code everyday.
-  
+Skills: JS / Java / C++ / Bash / Git / Networking / Network Design :p
 
-- ❓ I love playing with server hardware, and VM.
+- 🔭 I’m currently working on Melonhause.com 
+- 🌱 I’m currently learning CCNA 200 - 301, CompTIA A+ 
+- 🤔 I’m looking for help with Serverless (I still don’t get why people use it) 
+- 💬 Ask me about Network deployment, and any server related stuff 
+- 📫 How to reach me: [me [at] darrennathanael [dot] com](mailto:me@darrennathanael.com) 
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: I verymuch like cookies. 
 
 
 
 <img float="center" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=DarrenOfficial&show_icons=true&count_private=true&bg_color=00000000&title_color=7F7F7F&icon_color=7F7F7F&text_color=7F7F7F" />
+
+
+![GitHub metrics](https://metrics.lecoq.io/DarrenOfficial)  
 
 
 # Contact Me:
