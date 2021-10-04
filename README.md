@@ -34,6 +34,8 @@
 ---
 
 # RSS Feed
+
+Melonhause.com and darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
 - [Bring your own motd! BYOM](https://melonhause.com/threads/bring-your-own-motd-byom.7/)
 - [Is server good?](https://melonhause.com/threads/is-server-good.6/)
