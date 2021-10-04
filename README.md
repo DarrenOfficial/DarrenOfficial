@@ -5,13 +5,14 @@ I like programming and I like networking and watching data go brrr
 
 Skills: JS / Java / C++ / Bash / Git / Networking / Network Design :p
 
+
 - 🔭 I’m currently working on Melonhause.com 
-- 🌱 I’m currently learning CCNA 200 - 301, CompTIA A+ 
+- 🌴 I’m currently learning CCNA 200 - 301, CompTIA A+ 
 - 🤔 I’m looking for help with Serverless (I still don’t get why people use it) 
 - 💬 Ask me about Network deployment, and any server related stuff 
 - 📫 How to reach me: [me [at] darrennathanael [dot] com](mailto:me@darrennathanael.com) 
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I verymuch like cookies. 
+- ⛄️ Pronouns: He/Him 
+- 🍪 Fun fact: I verymuch like cookies. 
 
 
 
