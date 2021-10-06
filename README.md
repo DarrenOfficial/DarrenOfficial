@@ -39,7 +39,7 @@ Skills: JS / Java / C++ / Bash / Git / Networking / Network Design :p
 
 ---
 
-# RSS Feed
+## RSS Feed
 
 Melonhause.com and darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
@@ -51,6 +51,7 @@ Melonhause.com and darrennathanael.com
 <!-- BLOG-POST-LIST:END -->
 
 
+## Github Activity
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#271](https://github.com/Darkempire78/Darkempire78/issues/271) in [Darkempire78/Darkempire78](https://github.com/Darkempire78/Darkempire78)
 2. ❗️ Opened issue [#270](https://github.com/Darkempire78/Darkempire78/issues/270) in [Darkempire78/Darkempire78](https://github.com/Darkempire78/Darkempire78)
