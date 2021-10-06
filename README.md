@@ -3,7 +3,6 @@
 ### Hello world, I'm Darren, a backend developer 👨‍💻
 I like programming and I like networking and watching data go brrr
 
-Skills: JS / Java / C++ / Bash / Git / Networking / Network Design :p
 
 
 - 🔭 I’m currently working on Melonhause.com 
