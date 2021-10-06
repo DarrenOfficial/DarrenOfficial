@@ -52,3 +52,9 @@ Melonhause.com and darrennathanael.com
 
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#271](https://github.com/Darkempire78/Darkempire78/issues/271) in [Darkempire78/Darkempire78](https://github.com/Darkempire78/Darkempire78)
+2. ❗️ Opened issue [#270](https://github.com/Darkempire78/Darkempire78/issues/270) in [Darkempire78/Darkempire78](https://github.com/Darkempire78/Darkempire78)
+3. 🗣 Commented on [#447](https://github.com/SudhanPlayz/Discord-MusicBot/issues/447) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+4. 🗣 Commented on [#434](https://github.com/SudhanPlayz/Discord-MusicBot/issues/434) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+5. ❗️ Closed issue [#353](https://github.com/SudhanPlayz/Discord-MusicBot/issues/353) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+<!--END_SECTION:activity-->
