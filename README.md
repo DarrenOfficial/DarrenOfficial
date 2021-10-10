@@ -42,11 +42,11 @@ I like programming and I like networking and watching data go brrr
 
 Melonhause.com and darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
-- [Server update! Wewowe](https://melonhause.com/threads/server-update-wewowe.8/)
-- [Bring your own motd! BYOM](https://melonhause.com/threads/bring-your-own-motd-byom.7/)
-- [Is server good?](https://melonhause.com/threads/is-server-good.6/)
-- [Single File Cache Purging Delays](https://darrennathanael.com/community/threads/single-file-cache-purging-delays.115/)
-- [We’re Opened!](https://melonhause.com/threads/we%E2%80%99re-opened.5/)
+- [Cloudflare Dashboard  issues](https://www.cloudflarestatus.com/incidents/l2863vtb25p0)
+- [Cloudflare Apps: issues with javascript bundles loading](https://www.cloudflarestatus.com/incidents/jp605vkschz4)
+- [Cloudflare for Teams: Secure Web Gateway and DNS filtering log issues](https://www.cloudflarestatus.com/incidents/vtxm5yq64m8n)
+- [Issues with logging into the dashboard for users using either SSO or 2FA](https://www.cloudflarestatus.com/incidents/v4y0dw8wnx4x)
+- [Cloudflare Access Configuration Delays](https://www.cloudflarestatus.com/incidents/br7txg8jlrt3)
 <!-- BLOG-POST-LIST:END -->
 
 
