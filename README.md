@@ -51,11 +51,11 @@ yes
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#466](https://github.com/SudhanPlayz/Discord-MusicBot/pull/466) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-2. ❌ Closed PR [#469](https://github.com/SudhanPlayz/Discord-MusicBot/pull/469) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-3. ❌ Closed PR [#468](https://github.com/SudhanPlayz/Discord-MusicBot/pull/468) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-4. ❗️ Closed issue [#353](https://github.com/SudhanPlayz/Discord-MusicBot/issues/353) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-5. 🗣 Commented on [#454](https://github.com/SudhanPlayz/Discord-MusicBot/issues/454) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+1. ❌ Closed PR [#473](https://github.com/SudhanPlayz/Discord-MusicBot/pull/473) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+2. 🎉 Merged PR [#472](https://github.com/SudhanPlayz/Discord-MusicBot/pull/472) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+3. 🗣 Commented on [#472](https://github.com/SudhanPlayz/Discord-MusicBot/issues/472) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+4. ❌ Closed PR [#466](https://github.com/SudhanPlayz/Discord-MusicBot/pull/466) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+5. ❌ Closed PR [#469](https://github.com/SudhanPlayz/Discord-MusicBot/pull/469) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 
