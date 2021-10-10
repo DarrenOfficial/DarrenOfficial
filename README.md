@@ -39,8 +39,7 @@ I like programming and I like networking and watching data go brrr
 ---
 
 ## RSS Feed
-
-Melonhause.com and darrennathanael.com
+yes
 <!-- BLOG-POST-LIST:START -->
 - [Cloudflare Dashboard  issues](https://www.cloudflarestatus.com/incidents/l2863vtb25p0)
 - [Cloudflare Apps: issues with javascript bundles loading](https://www.cloudflarestatus.com/incidents/jp605vkschz4)
