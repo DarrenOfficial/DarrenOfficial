@@ -41,11 +41,11 @@ I like programming and I like networking and watching data go brrr
 ## RSS Feed
 yes
 <!-- BLOG-POST-LIST:START -->
+- [Service is operating normally: [RESOLVED] Elevated Error Rates for AWS Management Console](http://status.aws.amazon.com/)
+- [Service disruption: [RESOLVED] Elevated Error Rates for AWS Management Console](http://status.aws.amazon.com/)
+- [Informational message: [RESOLVED] Elevated Error Rates for AWS Management Console](http://status.aws.amazon.com/)
 - [Reasons why you should self-host lavalink instead of using public one.](https://darrennathanael.com/community/threads/reasons-why-you-should-self-host-lavalink-instead-of-using-public-one.5/)
 - [Network Performance Issues in Prague](https://www.cloudflarestatus.com/incidents/6psc5m2gfbyz)
-- [Single File Cache Purging Delays in Lux](https://www.cloudflarestatus.com/incidents/5lhm1kxbtssw)
-- [Image Resizing Availability Issues](https://www.cloudflarestatus.com/incidents/6kt3gp1zdl39)
-- [Cloudflare Dashboard  issues](https://www.cloudflarestatus.com/incidents/l2863vtb25p0)
 <!-- BLOG-POST-LIST:END -->
 
 
