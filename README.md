@@ -41,11 +41,11 @@ I like programming and I like networking and watching data go brrr
 ## RSS Feed
 yes
 <!-- BLOG-POST-LIST:START -->
+- [Reasons why you should self-host lavalink instead of using public one.](https://darrennathanael.com/community/threads/reasons-why-you-should-self-host-lavalink-instead-of-using-public-one.5/)
 - [Network Performance Issues in Prague](https://www.cloudflarestatus.com/incidents/6psc5m2gfbyz)
 - [Single File Cache Purging Delays in Lux](https://www.cloudflarestatus.com/incidents/5lhm1kxbtssw)
 - [Image Resizing Availability Issues](https://www.cloudflarestatus.com/incidents/6kt3gp1zdl39)
 - [Cloudflare Dashboard  issues](https://www.cloudflarestatus.com/incidents/l2863vtb25p0)
-- [Cloudflare Apps: issues with javascript bundles loading](https://www.cloudflarestatus.com/incidents/jp605vkschz4)
 <!-- BLOG-POST-LIST:END -->
 
 
