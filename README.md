@@ -41,11 +41,11 @@ I like programming and I like networking and watching data go brrr
 ## RSS Feed
 yes
 <!-- BLOG-POST-LIST:START -->
+- [Stream Live beta Availability Issues](https://www.cloudflarestatus.com/incidents/zq119lz0hmyw)
 - [Elevated error rate for Firewall Rules](https://www.cloudflarestatus.com/incidents/7wdcwjq4078m)
 - [Service is operating normally: [RESOLVED] Elevated Error Rates for AWS Management Console](http://status.aws.amazon.com/)
 - [Service disruption: [RESOLVED] Elevated Error Rates for AWS Management Console](http://status.aws.amazon.com/)
 - [Informational message: [RESOLVED] Elevated Error Rates for AWS Management Console](http://status.aws.amazon.com/)
-- [Reasons why you should self-host lavalink instead of using public one.](https://darrennathanael.com/community/threads/reasons-why-you-should-self-host-lavalink-instead-of-using-public-one.5/)
 <!-- BLOG-POST-LIST:END -->
 
 
