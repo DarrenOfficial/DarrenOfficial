@@ -41,8 +41,8 @@ I like programming and I like networking and watching data go brrr
 ## RSS Feed
 yes
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare Network Analytics Delays](https://www.cloudflarestatus.com/incidents/q3kzd065rp04)
 - [Network Performance Issues in the Ashburn, VA datacenter](https://www.cloudflarestatus.com/incidents/bw6g14w5b01f)
+- [Cloudflare Network Analytics Delays](https://www.cloudflarestatus.com/incidents/q3kzd065rp04)
 - [Stream Live beta Availability Issues](https://www.cloudflarestatus.com/incidents/zq119lz0hmyw)
 - [Elevated error rate for Firewall Rules](https://www.cloudflarestatus.com/incidents/7wdcwjq4078m)
 - [Service is operating normally: [RESOLVED] Elevated Error Rates for AWS Management Console](http://status.aws.amazon.com/)
