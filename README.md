@@ -51,11 +51,11 @@ yes
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1287](https://github.com/is-a-dev/register/pull/1287) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. ❗️ Closed issue [#495](https://github.com/SudhanPlayz/Discord-MusicBot/issues/495) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-3. 🗣 Commented on [#495](https://github.com/SudhanPlayz/Discord-MusicBot/issues/495) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-4. ❌ Closed PR [#501](https://github.com/SudhanPlayz/Discord-MusicBot/pull/501) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-5. 🗣 Commented on [#501](https://github.com/SudhanPlayz/Discord-MusicBot/issues/501) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+1. 🗣 Commented on [#208](https://github.com/fransallen/thedev.id/issues/208) in [fransallen/thedev.id](https://github.com/fransallen/thedev.id)
+2. 💪 Opened PR [#211](https://github.com/fransallen/thedev.id/pull/211) in [fransallen/thedev.id](https://github.com/fransallen/thedev.id)
+3. 💪 Opened PR [#1287](https://github.com/is-a-dev/register/pull/1287) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. ❗️ Closed issue [#495](https://github.com/SudhanPlayz/Discord-MusicBot/issues/495) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+5. 🗣 Commented on [#495](https://github.com/SudhanPlayz/Discord-MusicBot/issues/495) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 
