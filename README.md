@@ -41,7 +41,7 @@ I like programming and I like networking and watching data go brrr
 ## RSS Feed
 yes
 <!-- BLOG-POST-LIST:START -->
-- [SSL/TLS Settings deployment delays](https://www.cloudflarestatus.com/incidents/37385bnb1b10)
+- [RETRO: SSL/TLS Settings deployment delays](https://www.cloudflarestatus.com/incidents/y6kbxlztl506)
 - [Reasons why you should self-host lavalink instead of using public one.](https://darrennathanael.com/community/threads/reasons-why-you-should-self-host-lavalink-instead-of-using-public-one.5/)
 - [Network Performance Issues in the Ashburn, VA datacenter](https://www.cloudflarestatus.com/incidents/bw6g14w5b01f)
 - [Cloudflare Network Analytics Delays](https://www.cloudflarestatus.com/incidents/q3kzd065rp04)
