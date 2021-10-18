@@ -41,11 +41,11 @@ I like programming and I like networking and watching data go brrr
 ## RSS Feed
 yes
 <!-- BLOG-POST-LIST:START -->
+- [Magic Firewall Sparklines and Network Analytics Logs issues](https://www.cloudflarestatus.com/incidents/6zclz0q53pz9)
 - [RETRO: SSL/TLS Settings deployment delays](https://www.cloudflarestatus.com/incidents/y6kbxlztl506)
 - [Reasons why you should self-host lavalink instead of using public one.](https://darrennathanael.com/community/threads/reasons-why-you-should-self-host-lavalink-instead-of-using-public-one.5/)
 - [Network Performance Issues in the Ashburn, VA datacenter](https://www.cloudflarestatus.com/incidents/bw6g14w5b01f)
 - [Cloudflare Network Analytics Delays](https://www.cloudflarestatus.com/incidents/q3kzd065rp04)
-- [Stream Live beta Availability Issues](https://www.cloudflarestatus.com/incidents/zq119lz0hmyw)
 <!-- BLOG-POST-LIST:END -->
 
 
