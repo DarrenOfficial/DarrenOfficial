@@ -41,11 +41,11 @@ I like programming and I like networking and watching data go brrr
 ## RSS Feed
 yes
 <!-- BLOG-POST-LIST:START -->
+- [Increased HTTP 522 Errors in South America](https://www.cloudflarestatus.com/incidents/b09fvs6kq6d6)
 - [Cache Purging Delays](https://www.cloudflarestatus.com/incidents/xjy1mdc1qp6y)
 - [Firewall Rulesets change delays](https://www.cloudflarestatus.com/incidents/5pt53v24dj19)
 - [Elevated number of 502 errors in PDX](https://www.cloudflarestatus.com/incidents/kdlyny7s9sjw)
 - [Elevated Cloudflare Workers Errors](https://www.cloudflarestatus.com/incidents/jz1bglz4dfms)
-- [Magic Firewall Sparklines and Network Analytics Logs issues](https://www.cloudflarestatus.com/incidents/6zclz0q53pz9)
 <!-- BLOG-POST-LIST:END -->
 
 
