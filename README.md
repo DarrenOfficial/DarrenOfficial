@@ -41,11 +41,11 @@ I like programming and I like networking and watching data go brrr
 ## RSS Feed
 yes
 <!-- BLOG-POST-LIST:START -->
+- [Miami, FL, United States - (MIA) is experienced degraded network connectivity](https://www.cloudflarestatus.com/incidents/wdyf0bx8rvsq)
 - [Cloudflare Network Availability](https://www.cloudflarestatus.com/incidents/07hg0q0l964t)
 - [Bring your own motd! BYOM](https://melonhause.com/threads/bring-your-own-motd-byom.7/)
 - [Cloudflare Network Availability](https://www.cloudflarestatus.com/incidents/lk152dhjcb3v)
 - [Increased HTTP 522 Errors in South America](https://www.cloudflarestatus.com/incidents/b09fvs6kq6d6)
-- [Cache Purging Delays](https://www.cloudflarestatus.com/incidents/xjy1mdc1qp6y)
 <!-- BLOG-POST-LIST:END -->
 
 
