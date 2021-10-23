@@ -41,6 +41,8 @@ I like programming and I like networking and watching data go brrr
 ## Blog post updates
 https://code.darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
+- [Who asked?](https://code.darrennathanael.com/who-asked)
+- [How I migrated from servers, to serverless™](https://code.darrennathanael.com/how-i-migrated-from-servers-to-serverlesstm)
 - [Freenom scams, there's no truly free domains.](https://code.darrennathanael.com/freenom-scams-theres-no-truly-free-domains)
 - [Setting up lavalink server. (Ubuntu)](https://code.darrennathanael.com/setting-up-lavalink-server-ubuntu)
 <!-- BLOG-POST-LIST:END -->
