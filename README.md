@@ -41,11 +41,11 @@ I like programming and I like networking and watching data go brrr
 ## RSS Feed
 yes
 <!-- BLOG-POST-LIST:START -->
+- [Bring your own motd! BYOM](https://melonhause.com/threads/bring-your-own-motd-byom.7/)
 - [Cloudflare Network Availability](https://www.cloudflarestatus.com/incidents/07hg0q0l964t)
 - [Cloudflare Network Availability](https://www.cloudflarestatus.com/incidents/lk152dhjcb3v)
 - [Increased HTTP 522 Errors in South America](https://www.cloudflarestatus.com/incidents/b09fvs6kq6d6)
 - [Cache Purging Delays](https://www.cloudflarestatus.com/incidents/xjy1mdc1qp6y)
-- [Firewall Rulesets change delays](https://www.cloudflarestatus.com/incidents/5pt53v24dj19)
 <!-- BLOG-POST-LIST:END -->
 
 
