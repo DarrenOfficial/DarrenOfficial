@@ -38,8 +38,8 @@ I like programming and I like networking and watching data go brrr
 
 ---
 
-## RSS Feed
-yes
+## Blog post updates
+https://code.darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
 - [How I migrated from servers, to serverless™](https://code.darrennathanael.com/how-i-migrated-from-servers-to-serverlesstm)
 - [Freenom scams, there's no truly free domains.](https://code.darrennathanael.com/freenom-scams-theres-no-truly-free-domains)
