@@ -51,11 +51,11 @@ yes
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/DarrenOfficial/simple-modbot/pull/2) in [DarrenOfficial/simple-modbot](https://github.com/DarrenOfficial/simple-modbot)
-2. 🗣 Commented on [#2](https://github.com/DarrenOfficial/simple-modbot/issues/2) in [DarrenOfficial/simple-modbot](https://github.com/DarrenOfficial/simple-modbot)
-3. 🎉 Merged PR [#1](https://github.com/DarrenOfficial/simple-modbot/pull/1) in [DarrenOfficial/simple-modbot](https://github.com/DarrenOfficial/simple-modbot)
-4. 🗣 Commented on [#208](https://github.com/fransallen/thedev.id/issues/208) in [fransallen/thedev.id](https://github.com/fransallen/thedev.id)
-5. 💪 Opened PR [#211](https://github.com/fransallen/thedev.id/pull/211) in [fransallen/thedev.id](https://github.com/fransallen/thedev.id)
+1. 🎉 Merged PR [#2](https://github.com/DarrenOfficial/spotify-list/pull/2) in [DarrenOfficial/spotify-list](https://github.com/DarrenOfficial/spotify-list)
+2. ❌ Closed PR [#2](https://github.com/DarrenOfficial/simple-modbot/pull/2) in [DarrenOfficial/simple-modbot](https://github.com/DarrenOfficial/simple-modbot)
+3. 🗣 Commented on [#2](https://github.com/DarrenOfficial/simple-modbot/issues/2) in [DarrenOfficial/simple-modbot](https://github.com/DarrenOfficial/simple-modbot)
+4. 🎉 Merged PR [#1](https://github.com/DarrenOfficial/simple-modbot/pull/1) in [DarrenOfficial/simple-modbot](https://github.com/DarrenOfficial/simple-modbot)
+5. 🗣 Commented on [#208](https://github.com/fransallen/thedev.id/issues/208) in [fransallen/thedev.id](https://github.com/fransallen/thedev.id)
 <!--END_SECTION:activity-->
 
 
