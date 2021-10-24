@@ -51,10 +51,10 @@ https://code.darrennathanael.com
 ## Github Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#508](https://github.com/SudhanPlayz/Discord-MusicBot/issues/508) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-2. 🎉 Merged PR [#1](https://github.com/DarrenOfficial/DarrenOfficial/pull/1) in [DarrenOfficial/DarrenOfficial](https://github.com/DarrenOfficial/DarrenOfficial)
-3. 🎉 Merged PR [#2](https://github.com/DarrenOfficial/spotify-list/pull/2) in [DarrenOfficial/spotify-list](https://github.com/DarrenOfficial/spotify-list)
-4. ❌ Closed PR [#2](https://github.com/DarrenOfficial/simple-modbot/pull/2) in [DarrenOfficial/simple-modbot](https://github.com/DarrenOfficial/simple-modbot)
-5. 🗣 Commented on [#2](https://github.com/DarrenOfficial/simple-modbot/issues/2) in [DarrenOfficial/simple-modbot](https://github.com/DarrenOfficial/simple-modbot)
+2. ❗️ Closed issue [#517](https://github.com/SudhanPlayz/Discord-MusicBot/issues/517) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+3. 🗣 Commented on [#517](https://github.com/SudhanPlayz/Discord-MusicBot/issues/517) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+4. 🗣 Commented on [#508](https://github.com/SudhanPlayz/Discord-MusicBot/issues/508) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+5. 🎉 Merged PR [#1](https://github.com/DarrenOfficial/DarrenOfficial/pull/1) in [DarrenOfficial/DarrenOfficial](https://github.com/DarrenOfficial/DarrenOfficial)
 <!--END_SECTION:activity-->
 
 
