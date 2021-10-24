@@ -60,10 +60,10 @@ https://code.darrennathanael.com
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   8 hrs 42 mins   ████████████░░░░░░░░░░░░░   48.07 % 
-TypeScript   2 hrs 23 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Markdown     1 hr 31 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-HTML         1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-JSON         1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+JavaScript   8 hrs 20 mins   █████████████▓░░░░░░░░░░░   54.92 % 
+Markdown     1 hr 31 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+HTML         1 hr 21 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+TypeScript   1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+JSON         48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 ```
 <!--END_SECTION:waka-->
