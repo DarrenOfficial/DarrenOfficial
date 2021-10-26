@@ -7,7 +7,7 @@ I like programming and I like networking and watching data go brrr
 
 - 🔭 I’m currently working on Melonhause.com 
 - 🌴 I’m currently learning CCNA 200 - 301, CompTIA A+ 
-- 🤔 I’m looking for help with Serverless (I still don’t get why people use it) 
+- 🚀 aight, serverless is good.
 - 💬 Ask me about Network deployment, and any server related stuff 
 - 📫 How to reach me: [me [at] darrennathanael [dot] com](mailto:me@darrennathanael.com) 
 - ⛄️ Pronouns: He/Him 
