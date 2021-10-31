@@ -50,11 +50,11 @@ https://code.darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/DarrenOfficial/lavalink-list/pull/2) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-2. 🗣 Commented on [#2](https://github.com/DarrenOfficial/lavalink-list/issues/2) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-3. 🎉 Merged PR [#1](https://github.com/DarrenOfficial/lavalink-list/pull/1) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-4. 🗣 Commented on [#1](https://github.com/DarrenOfficial/lavalink-list/issues/1) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-5. ❗️ Closed issue [#1](https://github.com/DarrenOfficial/Lavalink-Host/issues/1) in [DarrenOfficial/Lavalink-Host](https://github.com/DarrenOfficial/Lavalink-Host)
+1. 💪 Opened PR [#231](https://github.com/fransallen/thedev.id/pull/231) in [fransallen/thedev.id](https://github.com/fransallen/thedev.id)
+2. 🎉 Merged PR [#2](https://github.com/DarrenOfficial/lavalink-list/pull/2) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+3. 🗣 Commented on [#2](https://github.com/DarrenOfficial/lavalink-list/issues/2) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+4. 🎉 Merged PR [#1](https://github.com/DarrenOfficial/lavalink-list/pull/1) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+5. 🗣 Commented on [#1](https://github.com/DarrenOfficial/lavalink-list/issues/1) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
 <!--END_SECTION:activity-->
 
 
