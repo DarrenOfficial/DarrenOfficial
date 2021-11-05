@@ -50,11 +50,11 @@ https://code.darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/DarrenOfficial/Lavalink-Host/issues/2) in [DarrenOfficial/Lavalink-Host](https://github.com/DarrenOfficial/Lavalink-Host)
-2. ❗️ Closed issue [#2](https://github.com/DarrenOfficial/Lavalink-Host/issues/2) in [DarrenOfficial/Lavalink-Host](https://github.com/DarrenOfficial/Lavalink-Host)
-3. 🎉 Merged PR [#3](https://github.com/DarrenOfficial/lavalink-list/pull/3) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-4. ❗️ Closed issue [#6](https://github.com/DarrenOfficial/lavalink-replit/issues/6) in [DarrenOfficial/lavalink-replit](https://github.com/DarrenOfficial/lavalink-replit)
-5. ❗️ Closed issue [#4](https://github.com/DarrenOfficial/lavalink-replit/issues/4) in [DarrenOfficial/lavalink-replit](https://github.com/DarrenOfficial/lavalink-replit)
+1. 🎉 Merged PR [#5](https://github.com/DarrenOfficial/lavalink-list/pull/5) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+2. 🗣 Commented on [#5](https://github.com/DarrenOfficial/lavalink-list/issues/5) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+3. 🗣 Commented on [#5](https://github.com/DarrenOfficial/lavalink-list/issues/5) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+4. 🗣 Commented on [#2](https://github.com/DarrenOfficial/Lavalink-Host/issues/2) in [DarrenOfficial/Lavalink-Host](https://github.com/DarrenOfficial/Lavalink-Host)
+5. ❗️ Closed issue [#2](https://github.com/DarrenOfficial/Lavalink-Host/issues/2) in [DarrenOfficial/Lavalink-Host](https://github.com/DarrenOfficial/Lavalink-Host)
 <!--END_SECTION:activity-->
 
 
