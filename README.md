@@ -38,6 +38,16 @@ I like programming and I like networking and watching data go brrr
 
 ---
 
+
+# Network stats
+
+
+<img src="https://cdn.darrennathanael.com/stats/network-log-hourly.png" alt="hourlystats" class="center">
+
+
+<img src="https://cdn.darrennathanael.com/stats/network-log-day.png" alt="hourlystats" class="center">
+
+---
 ## Blog post updates
 https://code.darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
