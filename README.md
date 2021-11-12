@@ -23,7 +23,7 @@ I like programming and I like networking and watching data go brrr
 
 # Contact Me:
 
-![dacord](https://discord.c99.nl/widget/theme-1/508296903960821771.png)
+![dacord](https://discord.c99.nl/widget/theme-5/508296903960821771.png)
 
 - Discord: [DarrenOfficial#3451](https://discord.com/users/508296903960821771)
 - Reddit: [DarrenOfficial](https://reddit.com/u/DarrenOfficiallol)
