@@ -23,7 +23,7 @@ I like programming and I like networking and watching data go brrr
 
 # Contact Me:
 
-![dacord](https://discord.c99.nl/widget/theme-5/508296903960821771.png)
+![dacord](https://discord.c99.nl/widget/theme-4/508296903960821771.png)
 
 - Discord: [DarrenOfficial#3451](https://discord.com/users/508296903960821771)
 - Reddit: [DarrenOfficial](https://reddit.com/u/DarrenOfficiallol)
@@ -42,10 +42,10 @@ I like programming and I like networking and watching data go brrr
 # Network stats
 
 
-<img src="https://cdn.darrennathanael.com/stats/network-log-hourly.png" alt="hourlystats" class="center">
+<img src="https://files.darrennathanael.com/stats/network-log-hourly.png" alt="hourlystats" class="center">
 
 
-<img src="https://cdn.darrennathanael.com/stats/network-log-day.png" alt="dailystats" class="center">
+<img src="https://files.darrennathanael.com/stats/network-log-day.png" alt="dailystats" class="center">
 
 ---
 ## Blog post updates
