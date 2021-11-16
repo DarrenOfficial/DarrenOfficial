@@ -61,7 +61,7 @@ https://code.darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#565](https://github.com/SudhanPlayz/Discord-MusicBot/issues/565) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+1. ❗️ Opened issue [#3](https://github.com/Akshit1025/discordjs-music-bot/issues/3) in [Akshit1025/discordjs-music-bot](https://github.com/Akshit1025/discordjs-music-bot)
 2. 🗣 Commented on [#565](https://github.com/SudhanPlayz/Discord-MusicBot/issues/565) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 3. 🗣 Commented on [#565](https://github.com/SudhanPlayz/Discord-MusicBot/issues/565) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 4. 🗣 Commented on [#565](https://github.com/SudhanPlayz/Discord-MusicBot/issues/565) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
