@@ -61,11 +61,11 @@ https://code.darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/DarrenOfficial/lavalink-list/issues/12) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-2. 🗣 Commented on [#3](https://github.com/Akshit1025/discordjs-music-bot/issues/3) in [Akshit1025/discordjs-music-bot](https://github.com/Akshit1025/discordjs-music-bot)
+1. 🎉 Merged PR [#12](https://github.com/DarrenOfficial/lavalink-list/pull/12) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+2. 🗣 Commented on [#12](https://github.com/DarrenOfficial/lavalink-list/issues/12) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
 3. 🗣 Commented on [#3](https://github.com/Akshit1025/discordjs-music-bot/issues/3) in [Akshit1025/discordjs-music-bot](https://github.com/Akshit1025/discordjs-music-bot)
-4. ❗️ Opened issue [#3](https://github.com/Akshit1025/discordjs-music-bot/issues/3) in [Akshit1025/discordjs-music-bot](https://github.com/Akshit1025/discordjs-music-bot)
-5. 🗣 Commented on [#565](https://github.com/SudhanPlayz/Discord-MusicBot/issues/565) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+4. 🗣 Commented on [#3](https://github.com/Akshit1025/discordjs-music-bot/issues/3) in [Akshit1025/discordjs-music-bot](https://github.com/Akshit1025/discordjs-music-bot)
+5. ❗️ Opened issue [#3](https://github.com/Akshit1025/discordjs-music-bot/issues/3) in [Akshit1025/discordjs-music-bot](https://github.com/Akshit1025/discordjs-music-bot)
 <!--END_SECTION:activity-->
 
 
