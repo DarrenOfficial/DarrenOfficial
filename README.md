@@ -61,11 +61,11 @@ https://code.darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/DarrenOfficial/lavalink-list/pull/13) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-2. 🎉 Merged PR [#12](https://github.com/DarrenOfficial/lavalink-list/pull/12) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-3. 🗣 Commented on [#12](https://github.com/DarrenOfficial/lavalink-list/issues/12) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-4. 🗣 Commented on [#3](https://github.com/Akshit1025/discordjs-music-bot/issues/3) in [Akshit1025/discordjs-music-bot](https://github.com/Akshit1025/discordjs-music-bot)
-5. 🗣 Commented on [#3](https://github.com/Akshit1025/discordjs-music-bot/issues/3) in [Akshit1025/discordjs-music-bot](https://github.com/Akshit1025/discordjs-music-bot)
+1. 🗣 Commented on [#31](https://github.com/Blackhawk-TA/dynoBot/issues/31) in [Blackhawk-TA/dynoBot](https://github.com/Blackhawk-TA/dynoBot)
+2. 🗣 Commented on [#32](https://github.com/Blackhawk-TA/dynoBot/issues/32) in [Blackhawk-TA/dynoBot](https://github.com/Blackhawk-TA/dynoBot)
+3. 🎉 Merged PR [#13](https://github.com/DarrenOfficial/lavalink-list/pull/13) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+4. 🎉 Merged PR [#12](https://github.com/DarrenOfficial/lavalink-list/pull/12) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+5. 🗣 Commented on [#12](https://github.com/DarrenOfficial/lavalink-list/issues/12) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
 <!--END_SECTION:activity-->
 
 
