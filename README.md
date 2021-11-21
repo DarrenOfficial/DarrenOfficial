@@ -45,11 +45,11 @@ https://code.darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#576](https://github.com/SudhanPlayz/Discord-MusicBot/pull/576) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-2. ❌ Closed PR [#575](https://github.com/SudhanPlayz/Discord-MusicBot/pull/575) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-3. ❌ Closed PR [#574](https://github.com/SudhanPlayz/Discord-MusicBot/pull/574) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-4. ❌ Closed PR [#573](https://github.com/SudhanPlayz/Discord-MusicBot/pull/573) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-5. ❌ Closed PR [#572](https://github.com/SudhanPlayz/Discord-MusicBot/pull/572) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+1. ❌ Closed PR [#1](https://github.com/DarrenOfficial/DarrenOfficial.github.io/pull/1) in [DarrenOfficial/DarrenOfficial.github.io](https://github.com/DarrenOfficial/DarrenOfficial.github.io)
+2. ❌ Closed PR [#576](https://github.com/SudhanPlayz/Discord-MusicBot/pull/576) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+3. ❌ Closed PR [#575](https://github.com/SudhanPlayz/Discord-MusicBot/pull/575) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+4. ❌ Closed PR [#574](https://github.com/SudhanPlayz/Discord-MusicBot/pull/574) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+5. ❌ Closed PR [#573](https://github.com/SudhanPlayz/Discord-MusicBot/pull/573) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 
