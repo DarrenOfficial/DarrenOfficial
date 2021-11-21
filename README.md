@@ -45,11 +45,11 @@ https://code.darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#231](https://github.com/fransallen/thedev.id/pull/231) in [fransallen/thedev.id](https://github.com/fransallen/thedev.id)
-2. 🗣 Commented on [#231](https://github.com/fransallen/thedev.id/issues/231) in [fransallen/thedev.id](https://github.com/fransallen/thedev.id)
-3. ❗️ Closed issue [#578](https://github.com/SudhanPlayz/Discord-MusicBot/issues/578) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-4. ❌ Closed PR [#1](https://github.com/DarrenOfficial/DarrenOfficial.github.io/pull/1) in [DarrenOfficial/DarrenOfficial.github.io](https://github.com/DarrenOfficial/DarrenOfficial.github.io)
-5. ❌ Closed PR [#576](https://github.com/SudhanPlayz/Discord-MusicBot/pull/576) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+1. ❌ Closed PR [#581](https://github.com/SudhanPlayz/Discord-MusicBot/pull/581) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+2. 🗣 Commented on [#581](https://github.com/SudhanPlayz/Discord-MusicBot/issues/581) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+3. 🗣 Commented on [#578](https://github.com/SudhanPlayz/Discord-MusicBot/issues/578) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+4. ❌ Closed PR [#231](https://github.com/fransallen/thedev.id/pull/231) in [fransallen/thedev.id](https://github.com/fransallen/thedev.id)
+5. 🗣 Commented on [#231](https://github.com/fransallen/thedev.id/issues/231) in [fransallen/thedev.id](https://github.com/fransallen/thedev.id)
 <!--END_SECTION:activity-->
 
 
