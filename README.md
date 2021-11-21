@@ -32,22 +32,6 @@ I like programming and I like networking and watching data go brrr
 
 
 ---
-
-<img alt="twitter" src="https://github-readme-twitter.gazf.vercel.app/api?id=DarrenNathans&layout=wide" />
-
-
----
-
-
-# Network stats
-
-
-<img src="https://files.darrennathanael.com/stats/network-log-hourly.png" alt="hourlystats" class="center">
-
-
-<img src="https://files.darrennathanael.com/stats/network-log-day.png" alt="dailystats" class="center">
-
----
 ## Blog post updates
 https://code.darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
