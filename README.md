@@ -14,13 +14,6 @@ I like programming and I like networking and watching data go brrr
 - 🍪 Fun fact: I verymuch like cookies. 
 
 
-
-<img float="center" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=DarrenOfficial&show_icons=true&count_private=true&bg_color=00000000&title_color=7F7F7F&icon_color=7F7F7F&text_color=7F7F7F" />
-
-
-![GitHub metrics](https://metrics.lecoq.io/DarrenOfficial)  
-
-
 # Contact Me:
 
 ![dacord](https://discord.c99.nl/widget/theme-4/508296903960821771.png)
