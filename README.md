@@ -48,10 +48,7 @@ https://code.darrennathanael.com
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   3 hrs 48 mins   ██████████████████████▒░░   88.71 % 
-Other        12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-HTML         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-CSS          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+JavaScript   3 hrs 19 mins   ███████████████████████▓░   94.00 % 
+Other        12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
 ```
 <!--END_SECTION:waka-->
