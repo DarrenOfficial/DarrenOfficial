@@ -38,11 +38,11 @@ https://code.darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#495](https://github.com/SudhanPlayz/Discord-MusicBot/issues/495) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-2. 💪 Opened PR [#1](https://github.com/Pump-Codes/website/pull/1) in [Pump-Codes/website](https://github.com/Pump-Codes/website)
-3. ❗️ Closed issue [#584](https://github.com/SudhanPlayz/Discord-MusicBot/issues/584) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-4. ❗️ Closed issue [#586](https://github.com/SudhanPlayz/Discord-MusicBot/issues/586) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-5. 🗣 Commented on [#586](https://github.com/SudhanPlayz/Discord-MusicBot/issues/586) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+1. 🎉 Merged PR [#21](https://github.com/DarrenOfficial/lavalink-list/pull/21) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+2. ❗️ Closed issue [#495](https://github.com/SudhanPlayz/Discord-MusicBot/issues/495) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+3. 💪 Opened PR [#1](https://github.com/Pump-Codes/website/pull/1) in [Pump-Codes/website](https://github.com/Pump-Codes/website)
+4. ❗️ Closed issue [#584](https://github.com/SudhanPlayz/Discord-MusicBot/issues/584) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+5. ❗️ Closed issue [#586](https://github.com/SudhanPlayz/Discord-MusicBot/issues/586) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 
