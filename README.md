@@ -48,6 +48,10 @@ https://code.darrennathanael.com
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+TypeScript   20 mins         ████████▓░░░░░░░░░░░░░░░░   34.18 % 
+Python       15 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.79 % 
+SCSS         11 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.70 % 
+JavaScript   7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Markdown     2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 ```
 <!--END_SECTION:waka-->
