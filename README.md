@@ -28,11 +28,11 @@ I like programming and I like networking and watching data go brrr
 ## Blog post updates
 https://code.darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
+- [test a test of the pyramid](https://code.darrennathanael.com/test-a-test-of-the-pyramid)
 - [How to make lavalink server](https://code.darrennathanael.com/how-to-lavalink)
 - [How to setup lavalink on repl.it](https://code.darrennathanael.com/how-to-setup-lavalink-on-replit)
 - [Who asked?](https://code.darrennathanael.com/who-asked)
 - [How I migrated from servers, to serverless™](https://code.darrennathanael.com/how-i-migrated-from-servers-to-serverlesstm)
-- [Freenom scams, there&#39;s no truly free domains.](https://code.darrennathanael.com/freenom-scams-theres-no-truly-free-domains)
 <!-- BLOG-POST-LIST:END -->
 
 
