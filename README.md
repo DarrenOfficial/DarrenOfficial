@@ -28,7 +28,7 @@ I like programming and I like networking and watching data go brrr
 ## Blog post updates
 https://code.darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
-- [test a test of the pyramid](https://code.darrennathanael.com/test-a-test-of-the-pyramid)
+- [How I setup my Website for free with Cloudflare pages](https://code.darrennathanael.com/how-i-setup-my-website-for-free-with-cloudflare-pages)
 - [How to make lavalink server](https://code.darrennathanael.com/how-to-lavalink)
 - [How to setup lavalink on repl.it](https://code.darrennathanael.com/how-to-setup-lavalink-on-replit)
 - [Who asked?](https://code.darrennathanael.com/who-asked)
