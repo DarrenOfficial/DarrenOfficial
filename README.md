@@ -55,3 +55,5 @@ Python       15 mins         █▓░░░░░░░░░░░░░░░
 SCSS         11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
 ```
 <!--END_SECTION:waka-->
+
+<img src="https://activity-graph.herokuapp.com/graph?username=DarrenOfficial&bg_color=202020&color=ffffff&line=4f8cc9&point=ffffff&area=true&hide_border=true"/>
