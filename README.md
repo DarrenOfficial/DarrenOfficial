@@ -48,8 +48,7 @@ https://code.darrennathanael.com
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 hrs 34 mins   ██████████████████████▓░░   90.32 % 
-Markdown     16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
