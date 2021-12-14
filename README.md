@@ -28,11 +28,11 @@ I like programming and I like networking and watching data go brrr
 ## Blog post updates
 https://code.darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
+- [How to make your own CDN with 10 GB storage for free](https://code.darrennathanael.com/how-to-make-your-own-cdn-with-10-gb-storage-for-free)
 - [How I setup my Website for free with Cloudflare pages](https://code.darrennathanael.com/how-i-setup-my-website-for-free-with-cloudflare-pages)
 - [How to make lavalink server](https://code.darrennathanael.com/how-to-lavalink)
 - [How to setup lavalink on repl.it](https://code.darrennathanael.com/how-to-setup-lavalink-on-replit)
 - [Who asked?](https://code.darrennathanael.com/who-asked)
-- [How I migrated from servers, to serverless™](https://code.darrennathanael.com/how-i-migrated-from-servers-to-serverlesstm)
 <!-- BLOG-POST-LIST:END -->
 
 
