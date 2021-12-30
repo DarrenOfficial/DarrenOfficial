@@ -38,10 +38,10 @@ https://code.darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#161](https://github.com/DarrenOfficial/dpaste/issues/161) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
-2. 🎉 Merged PR [#37](https://github.com/DarrenOfficial/lavalink-list/pull/37) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-3. 🗣 Commented on [#7](https://github.com/DarrenOfficial/lavalink-replit/issues/7) in [DarrenOfficial/lavalink-replit](https://github.com/DarrenOfficial/lavalink-replit)
-4. 🗣 Commented on [#508](https://github.com/SudhanPlayz/Discord-MusicBot/issues/508) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+1. 🗣 Commented on [#32](https://github.com/DarrenOfficial/lavalink-list/issues/32) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+2. 🗣 Commented on [#161](https://github.com/DarrenOfficial/dpaste/issues/161) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
+3. 🎉 Merged PR [#37](https://github.com/DarrenOfficial/lavalink-list/pull/37) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+4. 🗣 Commented on [#7](https://github.com/DarrenOfficial/lavalink-replit/issues/7) in [DarrenOfficial/lavalink-replit](https://github.com/DarrenOfficial/lavalink-replit)
 5. 🗣 Commented on [#508](https://github.com/SudhanPlayz/Discord-MusicBot/issues/508) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
