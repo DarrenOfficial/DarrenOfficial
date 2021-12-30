@@ -57,3 +57,6 @@ JSON         3 mins          ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <img src="https://activity-graph.herokuapp.com/graph?username=DarrenOfficial&bg_color=202020&color=ffffff&line=4f8cc9&point=ffffff&area=true&hide_border=true"/>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=DarrenOfficial&layout=compact&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&show_icons=true&bg_color=00000000&text_color=c3c6ce&icon_color=4e64f7)
+
