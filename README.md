@@ -48,11 +48,11 @@ https://code.darrennathanael.com
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 hrs 54 mins   █████████████▓░░░░░░░░░░░   55.28 % 
-YAML         1 hr 4 mins     █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-Markdown     58 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.54 % 
-Python       13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-Git          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+JavaScript   7 hrs 14 mins   █████████████████▓░░░░░░░   71.26 % 
+YAML         1 hr 5 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Markdown     58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+JSON         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Python       13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 ```
 <!--END_SECTION:waka-->
 
