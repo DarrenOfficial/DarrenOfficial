@@ -32,8 +32,8 @@ I like programming and I like networking and watching data go brrr
 - 💬 Ask me about Network deployment, and any server related stuff 
 - 📫 How to reach me: [me [at] darrennathanael [dot] com](mailto:me@darrennathanael.com) 
 - ⛄️ Pronouns: He/Him 
-- 🍪 Fun fact: I verymuch like cookies. 
-
+- 🍪 Fun fact: I very much like cookies. 
+- ☕ I know and use: Java, Kotlin, JS, Python, Docker, K8s ;Do you?
 
 # Contact Me:
 
