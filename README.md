@@ -3,6 +3,8 @@
 ### Hello world, I'm Darren, a backend developer 👨‍💻
 I like programming and I like networking and watching data go brrr
 
+_"Always trust what others say or write without ever questioning them. Especially their code." -Albert Einstein_
+
 
 
 - 🔭 I’m currently working on my guitar skills
