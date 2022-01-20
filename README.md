@@ -39,11 +39,11 @@ https://code.darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#662](https://github.com/SudhanPlayz/Discord-MusicBot/issues/662) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-2. 💪 Opened PR [#1](https://github.com/realfraze/SalHackSkid_skid_skid_skid_skid_skid_skid_skid/pull/1) in [realfraze/SalHackSkid_skid_skid_skid_skid_skid_skid_skid](https://github.com/realfraze/SalHackSkid_skid_skid_skid_skid_skid_skid_skid)
-3. 🎉 Merged PR [#1](https://github.com/DarrenOfficial/SalHackSkid_skid_skid_skid_skid_skid_skid_skid/pull/1) in [DarrenOfficial/SalHackSkid_skid_skid_skid_skid_skid_skid_skid](https://github.com/DarrenOfficial/SalHackSkid_skid_skid_skid_skid_skid_skid_skid)
-4. 🎉 Merged PR [#53](https://github.com/DarrenOfficial/lavalink-list/pull/53) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-5. 💪 Opened PR [#53](https://github.com/DarrenOfficial/lavalink-list/pull/53) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+1. ❗️ Opened issue [#1](https://github.com/Bubzhome/Tangerine-Bot/issues/1) in [Bubzhome/Tangerine-Bot](https://github.com/Bubzhome/Tangerine-Bot)
+2. 🗣 Commented on [#638](https://github.com/SudhanPlayz/Discord-MusicBot/issues/638) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+3. 🗣 Commented on [#662](https://github.com/SudhanPlayz/Discord-MusicBot/issues/662) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+4. 💪 Opened PR [#1](https://github.com/realfraze/SalHackSkid_skid_skid_skid_skid_skid_skid_skid/pull/1) in [realfraze/SalHackSkid_skid_skid_skid_skid_skid_skid_skid](https://github.com/realfraze/SalHackSkid_skid_skid_skid_skid_skid_skid_skid)
+5. 🎉 Merged PR [#1](https://github.com/DarrenOfficial/SalHackSkid_skid_skid_skid_skid_skid_skid_skid/pull/1) in [DarrenOfficial/SalHackSkid_skid_skid_skid_skid_skid_skid_skid](https://github.com/DarrenOfficial/SalHackSkid_skid_skid_skid_skid_skid_skid_skid)
 <!--END_SECTION:activity-->
 
 
