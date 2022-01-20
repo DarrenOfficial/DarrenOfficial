@@ -39,11 +39,11 @@ https://code.darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/realfraze/SalHackSkid_skid_skid_skid_skid_skid_skid_skid/pull/1) in [realfraze/SalHackSkid_skid_skid_skid_skid_skid_skid_skid](https://github.com/realfraze/SalHackSkid_skid_skid_skid_skid_skid_skid_skid)
-2. 🎉 Merged PR [#1](https://github.com/DarrenOfficial/SalHackSkid_skid_skid_skid_skid_skid_skid_skid/pull/1) in [DarrenOfficial/SalHackSkid_skid_skid_skid_skid_skid_skid_skid](https://github.com/DarrenOfficial/SalHackSkid_skid_skid_skid_skid_skid_skid_skid)
-3. 🎉 Merged PR [#53](https://github.com/DarrenOfficial/lavalink-list/pull/53) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-4. 💪 Opened PR [#53](https://github.com/DarrenOfficial/lavalink-list/pull/53) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-5. 🎉 Merged PR [#659](https://github.com/SudhanPlayz/Discord-MusicBot/pull/659) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+1. 🗣 Commented on [#662](https://github.com/SudhanPlayz/Discord-MusicBot/issues/662) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+2. 💪 Opened PR [#1](https://github.com/realfraze/SalHackSkid_skid_skid_skid_skid_skid_skid_skid/pull/1) in [realfraze/SalHackSkid_skid_skid_skid_skid_skid_skid_skid](https://github.com/realfraze/SalHackSkid_skid_skid_skid_skid_skid_skid_skid)
+3. 🎉 Merged PR [#1](https://github.com/DarrenOfficial/SalHackSkid_skid_skid_skid_skid_skid_skid_skid/pull/1) in [DarrenOfficial/SalHackSkid_skid_skid_skid_skid_skid_skid_skid](https://github.com/DarrenOfficial/SalHackSkid_skid_skid_skid_skid_skid_skid_skid)
+4. 🎉 Merged PR [#53](https://github.com/DarrenOfficial/lavalink-list/pull/53) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+5. 💪 Opened PR [#53](https://github.com/DarrenOfficial/lavalink-list/pull/53) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
 <!--END_SECTION:activity-->
 
 
