@@ -50,10 +50,11 @@ https://code.darrennathanael.com
 
 <!--START_SECTION:waka-->
 ```text
-HTML         1 hr 17 mins    ███████████░░░░░░░░░░░░░░   43.57 % 
-JavaScript   1 hr 15 mins    ██████████▓░░░░░░░░░░░░░░   42.51 % 
-Markdown     19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Git          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+JavaScript   6 hrs 20 mins   █████████████████████▒░░░   84.83 % 
+Git Config   28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Markdown     21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Git          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+HTML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 ```
 <!--END_SECTION:waka-->
 
