@@ -39,11 +39,11 @@ https://code.darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#696](https://github.com/SudhanPlayz/Discord-MusicBot/issues/696) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-2. ❗️ Opened issue [#696](https://github.com/SudhanPlayz/Discord-MusicBot/issues/696) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-3. ❌ Closed PR [#6](https://github.com/DarrenOfficial/DiscordMusic/pull/6) in [DarrenOfficial/DiscordMusic](https://github.com/DarrenOfficial/DiscordMusic)
-4. ❌ Closed PR [#4](https://github.com/DarrenOfficial/DiscordMusic/pull/4) in [DarrenOfficial/DiscordMusic](https://github.com/DarrenOfficial/DiscordMusic)
-5. ❌ Closed PR [#5](https://github.com/DarrenOfficial/DiscordMusic/pull/5) in [DarrenOfficial/DiscordMusic](https://github.com/DarrenOfficial/DiscordMusic)
+1. 🗣 Commented on [#27](https://github.com/NezuChan/better-erela.js-spotify/issues/27) in [NezuChan/better-erela.js-spotify](https://github.com/NezuChan/better-erela.js-spotify)
+2. 🗣 Commented on [#27](https://github.com/NezuChan/better-erela.js-spotify/issues/27) in [NezuChan/better-erela.js-spotify](https://github.com/NezuChan/better-erela.js-spotify)
+3. ❗️ Opened issue [#27](https://github.com/NezuChan/better-erela.js-spotify/issues/27) in [NezuChan/better-erela.js-spotify](https://github.com/NezuChan/better-erela.js-spotify)
+4. ❗️ Closed issue [#696](https://github.com/SudhanPlayz/Discord-MusicBot/issues/696) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+5. 🗣 Commented on [#696](https://github.com/SudhanPlayz/Discord-MusicBot/issues/696) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 
