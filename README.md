@@ -39,11 +39,11 @@ https://code.darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/NezuChan/better-erela.js-spotify/issues/27) in [NezuChan/better-erela.js-spotify](https://github.com/NezuChan/better-erela.js-spotify)
+1. ❗️ Opened issue [#1](https://github.com/Neko-Life/Discord-Screen-Share-Fix-Audio-on-Linux/issues/1) in [Neko-Life/Discord-Screen-Share-Fix-Audio-on-Linux](https://github.com/Neko-Life/Discord-Screen-Share-Fix-Audio-on-Linux)
 2. 🗣 Commented on [#27](https://github.com/NezuChan/better-erela.js-spotify/issues/27) in [NezuChan/better-erela.js-spotify](https://github.com/NezuChan/better-erela.js-spotify)
 3. 🗣 Commented on [#27](https://github.com/NezuChan/better-erela.js-spotify/issues/27) in [NezuChan/better-erela.js-spotify](https://github.com/NezuChan/better-erela.js-spotify)
 4. 🗣 Commented on [#27](https://github.com/NezuChan/better-erela.js-spotify/issues/27) in [NezuChan/better-erela.js-spotify](https://github.com/NezuChan/better-erela.js-spotify)
-5. ❗️ Opened issue [#27](https://github.com/NezuChan/better-erela.js-spotify/issues/27) in [NezuChan/better-erela.js-spotify](https://github.com/NezuChan/better-erela.js-spotify)
+5. 🗣 Commented on [#27](https://github.com/NezuChan/better-erela.js-spotify/issues/27) in [NezuChan/better-erela.js-spotify](https://github.com/NezuChan/better-erela.js-spotify)
 <!--END_SECTION:activity-->
 
 
