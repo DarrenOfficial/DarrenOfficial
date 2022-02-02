@@ -42,8 +42,8 @@ https://code.darrennathanael.com
 1. 🗣 Commented on [#27](https://github.com/NezuChan/better-erela.js-spotify/issues/27) in [NezuChan/better-erela.js-spotify](https://github.com/NezuChan/better-erela.js-spotify)
 2. 🗣 Commented on [#27](https://github.com/NezuChan/better-erela.js-spotify/issues/27) in [NezuChan/better-erela.js-spotify](https://github.com/NezuChan/better-erela.js-spotify)
 3. 🗣 Commented on [#27](https://github.com/NezuChan/better-erela.js-spotify/issues/27) in [NezuChan/better-erela.js-spotify](https://github.com/NezuChan/better-erela.js-spotify)
-4. ❗️ Opened issue [#27](https://github.com/NezuChan/better-erela.js-spotify/issues/27) in [NezuChan/better-erela.js-spotify](https://github.com/NezuChan/better-erela.js-spotify)
-5. ❗️ Closed issue [#696](https://github.com/SudhanPlayz/Discord-MusicBot/issues/696) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+4. 🗣 Commented on [#27](https://github.com/NezuChan/better-erela.js-spotify/issues/27) in [NezuChan/better-erela.js-spotify](https://github.com/NezuChan/better-erela.js-spotify)
+5. ❗️ Opened issue [#27](https://github.com/NezuChan/better-erela.js-spotify/issues/27) in [NezuChan/better-erela.js-spotify](https://github.com/NezuChan/better-erela.js-spotify)
 <!--END_SECTION:activity-->
 
 
