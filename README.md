@@ -39,11 +39,11 @@ https://code.darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#700](https://github.com/SudhanPlayz/Discord-MusicBot/issues/700) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-2. 🗣 Commented on [#700](https://github.com/SudhanPlayz/Discord-MusicBot/issues/700) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+1. 🎉 Merged PR [#701](https://github.com/SudhanPlayz/Discord-MusicBot/pull/701) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+2. 🗣 Commented on [#678](https://github.com/SudhanPlayz/Discord-MusicBot/issues/678) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 3. 🗣 Commented on [#700](https://github.com/SudhanPlayz/Discord-MusicBot/issues/700) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-4. ❗️ Opened issue [#1](https://github.com/Neko-Life/Discord-Screen-Share-Fix-Audio-on-Linux/issues/1) in [Neko-Life/Discord-Screen-Share-Fix-Audio-on-Linux](https://github.com/Neko-Life/Discord-Screen-Share-Fix-Audio-on-Linux)
-5. 🗣 Commented on [#27](https://github.com/NezuChan/better-erela.js-spotify/issues/27) in [NezuChan/better-erela.js-spotify](https://github.com/NezuChan/better-erela.js-spotify)
+4. 🗣 Commented on [#700](https://github.com/SudhanPlayz/Discord-MusicBot/issues/700) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+5. 🗣 Commented on [#700](https://github.com/SudhanPlayz/Discord-MusicBot/issues/700) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 
