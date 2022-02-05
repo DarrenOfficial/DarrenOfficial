@@ -39,10 +39,10 @@ https://code.darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/DarrenOfficial/website/pull/3) in [DarrenOfficial/website](https://github.com/DarrenOfficial/website)
-2. ❌ Closed PR [#2](https://github.com/DarrenOfficial/website/pull/2) in [DarrenOfficial/website](https://github.com/DarrenOfficial/website)
-3. ❌ Closed PR [#1](https://github.com/DarrenOfficial/website/pull/1) in [DarrenOfficial/website](https://github.com/DarrenOfficial/website)
-4. 🗣 Commented on [#638](https://github.com/SudhanPlayz/Discord-MusicBot/issues/638) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+1. 🗣 Commented on [#638](https://github.com/SudhanPlayz/Discord-MusicBot/issues/638) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+2. ❌ Closed PR [#3](https://github.com/DarrenOfficial/website/pull/3) in [DarrenOfficial/website](https://github.com/DarrenOfficial/website)
+3. ❌ Closed PR [#2](https://github.com/DarrenOfficial/website/pull/2) in [DarrenOfficial/website](https://github.com/DarrenOfficial/website)
+4. ❌ Closed PR [#1](https://github.com/DarrenOfficial/website/pull/1) in [DarrenOfficial/website](https://github.com/DarrenOfficial/website)
 5. 🗣 Commented on [#638](https://github.com/SudhanPlayz/Discord-MusicBot/issues/638) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
