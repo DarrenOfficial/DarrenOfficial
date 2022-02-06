@@ -30,11 +30,9 @@ _"Always trust what others say or write without ever questioning them. Especiall
 ## Blog post updates
 https://code.darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
-- [How to keep your public lavalink safe by proxying it trough cloudflare.](https://code.darrennathanael.com/how-to-keep-your-public-lavalink-safe-by-proxying-it-trough-cloudflare)
-- [How to make your own CDN with 10 GB storage for free](https://code.darrennathanael.com/how-to-make-your-own-cdn-with-10-gb-storage-for-free)
-- [How I setup my Website for free with Cloudflare pages](https://code.darrennathanael.com/how-i-setup-my-website-for-free-with-cloudflare-pages)
-- [How to make lavalink server](https://code.darrennathanael.com/how-to-lavalink)
-- [How to setup lavalink on repl.it](https://code.darrennathanael.com/how-to-setup-lavalink-on-replit)
+- [setting up tunnelbroker &lpar;netplan&rpar;](https://darrennathanael.com/post/tunnelbroker-lavalink-netplan/)
+- [How to make your own CDN with 10 GB storage for free](https://darrennathanael.com/post/how-to-make-your-own-cdn-with-10-gb-storage-for-free/)
+- [How to make lavalink server](https://darrennathanael.com/post/how-to-lavalink/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Activity
