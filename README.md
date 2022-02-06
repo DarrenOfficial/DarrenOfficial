@@ -49,13 +49,6 @@ https://code.darrennathanael.com
 
 
 <!--START_SECTION:waka-->
-```text
-JavaScript   6 hrs 20 mins   █████████████████████▒░░░   84.83 % 
-Git Config   28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Markdown     21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-Git          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-HTML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-```
 <!--END_SECTION:waka-->
 
 <img src="https://activity-graph.herokuapp.com/graph?username=DarrenOfficial&bg_color=202020&color=ffffff&line=4f8cc9&point=ffffff&area=true&hide_border=true"/>
