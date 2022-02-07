@@ -27,8 +27,8 @@ _"Always trust what others say or write without ever questioning them. Especiall
 
 
 ---
-## Blog post updates
-https://code.darrennathanael.com
+## New blog alert 📦
+https://darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
 - [How I handle jays.host ddos attack](https://darrennathanael.com/post/jayshost/)
 - [setting up tunnelbroker &lpar;netplan&rpar;](https://darrennathanael.com/post/tunnelbroker-lavalink-netplan/)
