@@ -30,6 +30,7 @@ _"Always trust what others say or write without ever questioning them. Especiall
 ## Blog post updates
 https://code.darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
+- [How I handle jays.host ddos attack](https://darrennathanael.com/post/jayshost/)
 - [setting up tunnelbroker &lpar;netplan&rpar;](https://darrennathanael.com/post/tunnelbroker-lavalink-netplan/)
 - [How to make your own CDN with 10 GB storage for free](https://darrennathanael.com/post/how-to-make-your-own-cdn-with-10-gb-storage-for-free/)
 - [How to make lavalink server](https://darrennathanael.com/post/how-to-lavalink/)
