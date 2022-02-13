@@ -54,23 +54,7 @@ https://darrennathanael.com
 <img src="https://activity-graph.herokuapp.com/graph?username=DarrenOfficial&bg_color=202020&color=ffffff&line=4f8cc9&point=ffffff&area=true&hide_border=true"/>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=DarrenOfficial&layout=compact&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&show_icons=true&bg_color=00000000&text_color=c3c6ce&icon_color=4e64f7)
-## Affiliates links
-Give me money :pray:
-<div align="center">
-  <a href="https://www.digitalocean.com/?refcode=f6197d2feaff&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg" alt="DigitalOcean Referral Badge" /></a>
-  <a href="https://clients.servarica.com/aff.php?aff=519">
-    <img src="https://servarica.com/wp-content/uploads/2018/10/serverica-logo-w-4.png" alt="Servarica Referral Badge" width="350" height="80">
-  </a>
-  <a href="https://billing.oxide.host/aff.php?aff=133">
-    <img src="https://oxide.host/assets/img/company-logo-footer.png" alt="Oxide Hosting Referral Badge" width="275" height="100">
-  </a>
-  </div>
-
-
-> Digital Ocean: You'll get $100 when you sign up with my refferal links ❤️
-> 
-> Servarica: The cheapest storage hosting! they only have datacenter in montreal tho 🙏. [Speedtest](https://www.speedtest.net/result/c/6d2afd85-0687-4330-9b6a-8fe7d48ee040)
-> 
-> Oxide Hosting: The best VPS provider! they have a great support staff too!
+## Support me!
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/darrenofficial)
 
 ---
