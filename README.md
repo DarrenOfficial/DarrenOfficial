@@ -30,11 +30,11 @@ _"Always trust what others say or write without ever questioning them. Especiall
 ## New blog alert 📦
 https://darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
+- [setting up tunnelbroker &lpar;networks&rpar;](https://darrennathanael.com/post/tunnelbroker-lavalink-ifup-ifdown/)
 - [The challenge of running lavalink](https://darrennathanael.com/post/challenge-of-running-public-lavalink/)
 - [How I handle jays.host ddos attack](https://darrennathanael.com/post/jayshost/)
 - [setting up tunnelbroker &lpar;netplan&rpar;](https://darrennathanael.com/post/tunnelbroker-lavalink-netplan/)
 - [How to make your own CDN with 10 GB storage for free](https://darrennathanael.com/post/how-to-make-your-own-cdn-with-10-gb-storage-for-free/)
-- [How to make lavalink server](https://darrennathanael.com/post/how-to-lavalink/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Activity
