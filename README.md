@@ -23,7 +23,7 @@ _"Always trust what others say or write without ever questioning them. Especiall
 - Discord: [DarrenOfficial#3451](https://discord.com/users/508296903960821771)
 - Reddit: [DarrenOfficial](https://reddit.com/u/DarrenOfficiallol)
 - Github: [DarrenOfficial](https://github.com/DarrenOfficial)
-- Twitter: [DarrenNathans](https://twitter.com/DarrenNathans)
+- Twitter: [darrenuselinux](https://twitter.com/darrenuselinux)
 
 
 ---
