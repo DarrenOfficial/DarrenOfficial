@@ -39,11 +39,11 @@ https://darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/DuncteBot/skybot-lavalink-plugin/issues/5) in [DuncteBot/skybot-lavalink-plugin](https://github.com/DuncteBot/skybot-lavalink-plugin)
-2. 🎉 Merged PR [#73](https://github.com/DarrenOfficial/lavalink-list/pull/73) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-3. 🗣 Commented on [#2](https://github.com/NotSaksh/Lavalinks.xyz/issues/2) in [NotSaksh/Lavalinks.xyz](https://github.com/NotSaksh/Lavalinks.xyz)
-4. ❗️ Closed issue [#743](https://github.com/SudhanPlayz/Discord-MusicBot/issues/743) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-5. 🗣 Commented on [#71](https://github.com/DarrenOfficial/lavalink-list/issues/71) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+1. 🗣 Commented on [#2](https://github.com/NotSaksh/Lavalinks.xyz/issues/2) in [NotSaksh/Lavalinks.xyz](https://github.com/NotSaksh/Lavalinks.xyz)
+2. ❗️ Opened issue [#5](https://github.com/DuncteBot/skybot-lavalink-plugin/issues/5) in [DuncteBot/skybot-lavalink-plugin](https://github.com/DuncteBot/skybot-lavalink-plugin)
+3. 🎉 Merged PR [#73](https://github.com/DarrenOfficial/lavalink-list/pull/73) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+4. 🗣 Commented on [#2](https://github.com/NotSaksh/Lavalinks.xyz/issues/2) in [NotSaksh/Lavalinks.xyz](https://github.com/NotSaksh/Lavalinks.xyz)
+5. ❗️ Closed issue [#743](https://github.com/SudhanPlayz/Discord-MusicBot/issues/743) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 
