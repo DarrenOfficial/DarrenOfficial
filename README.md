@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=DarrenOfficial&label=Profile%20views&color=0e75b6&style=flat" alt="nadirabbas" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=DarrenOfficial&label=Profile%20views&color=0e75b6&style=flat" alt="DarrenOfficial Profie Views" /> </p>
 
 ### Hello world, I'm Darren, a backend developer 👨‍💻
 I like programming and I like networking and watching data go brrr
@@ -52,7 +52,7 @@ https://darrennathanael.com
 <!--END_SECTION:waka-->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=DarrenOfficial&layout=compact&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&show_icons=true&bg_color=00000000&text_color=c3c6ce&icon_color=4e64f7)
-## Support me!
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/darrenofficial)
+## Take the ads
+[![Image Ads](https://net.dpaste.org/api/v1/ads)](https://ko-fi.com/darrenofficial)
 
 ---
