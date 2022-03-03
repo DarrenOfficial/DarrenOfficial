@@ -40,10 +40,10 @@ https://darrennathanael.com
 ## Github Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#175](https://github.com/DarrenOfficial/dpaste/issues/175) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
-2. 🎉 Merged PR [#181](https://github.com/DarrenOfficial/dpaste/pull/181) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
-3. 🎉 Merged PR [#159](https://github.com/DarrenOfficial/dpaste/pull/159) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
-4. 💪 Opened PR [#181](https://github.com/DarrenOfficial/dpaste/pull/181) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
-5. ❌ Closed PR [#180](https://github.com/DarrenOfficial/dpaste/pull/180) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
+2. 🎉 Merged PR [#183](https://github.com/DarrenOfficial/dpaste/pull/183) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
+3. 🎉 Merged PR [#182](https://github.com/DarrenOfficial/dpaste/pull/182) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
+4. 💪 Opened PR [#183](https://github.com/DarrenOfficial/dpaste/pull/183) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
+5. 💪 Opened PR [#182](https://github.com/DarrenOfficial/dpaste/pull/182) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
 <!--END_SECTION:activity-->
 
 
