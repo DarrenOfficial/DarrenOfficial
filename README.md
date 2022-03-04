@@ -39,11 +39,11 @@ https://darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/DarrenOfficial/spotify-list/pull/9) in [DarrenOfficial/spotify-list](https://github.com/DarrenOfficial/spotify-list)
-2. 🎉 Merged PR [#3](https://github.com/DarrenOfficial/spotify-list/pull/3) in [DarrenOfficial/spotify-list](https://github.com/DarrenOfficial/spotify-list)
-3. 🎉 Merged PR [#11](https://github.com/DarrenOfficial/spotify-list/pull/11) in [DarrenOfficial/spotify-list](https://github.com/DarrenOfficial/spotify-list)
-4. 🗣 Commented on [#175](https://github.com/DarrenOfficial/dpaste/issues/175) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
-5. 🎉 Merged PR [#183](https://github.com/DarrenOfficial/dpaste/pull/183) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
+1. ❌ Closed PR [#736](https://github.com/SudhanPlayz/Discord-MusicBot/pull/736) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+2. ❌ Closed PR [#737](https://github.com/SudhanPlayz/Discord-MusicBot/pull/737) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+3. 🎉 Merged PR [#9](https://github.com/DarrenOfficial/spotify-list/pull/9) in [DarrenOfficial/spotify-list](https://github.com/DarrenOfficial/spotify-list)
+4. 🎉 Merged PR [#3](https://github.com/DarrenOfficial/spotify-list/pull/3) in [DarrenOfficial/spotify-list](https://github.com/DarrenOfficial/spotify-list)
+5. 🎉 Merged PR [#11](https://github.com/DarrenOfficial/spotify-list/pull/11) in [DarrenOfficial/spotify-list](https://github.com/DarrenOfficial/spotify-list)
 <!--END_SECTION:activity-->
 
 
