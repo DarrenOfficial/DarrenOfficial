@@ -12,11 +12,11 @@ _"Always trust what others say or write without ever questioning them. Especiall
 
 - 🔭 I’m currently working on my guitar skills
 - 🌴 I’m currently learning CCNA 200 - 301, CompTIA A+ 
-- 🚀 I'm slow on everywhere else but email, cuz email notification works.
+- 🚀 Sometimes I'm slow on everywhere else but email, because email notification works.
 - 💬 Ask me about Network deployment, and any server related stuff 
 - 📫 How to reach me: [me [at] darrennathanael [dot] com](mailto:me@darrennathanael.com) 
-- ⛄️ Pronouns: He/Him 
-- 🍪 Fun fact: I very much like cookies. 
+- ⛄️ Pronouns: He/Him
+- 🍪 Fun fact: Headers are a way to send hidden message.
 # Contact Me:
 
 ![dacord](https://discord.c99.nl/widget/theme-4/508296903960821771.png)
