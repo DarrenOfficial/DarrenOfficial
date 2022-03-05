@@ -3,6 +3,9 @@
 ### Hello world, I'm Darren, a backend developer 👨‍💻
 I like programming and I like networking and watching data go brrr
 
+### Hire me!
+Looking for System Administrator? Contact DarrenOfficial#3451 on discord or hi@darrennathanael.com
+
 _"Always trust what others say or write without ever questioning them. Especially their code." -Albert Einstein_
 
 
@@ -14,8 +17,6 @@ _"Always trust what others say or write without ever questioning them. Especiall
 - 📫 How to reach me: [me [at] darrennathanael [dot] com](mailto:me@darrennathanael.com) 
 - ⛄️ Pronouns: He/Him 
 - 🍪 Fun fact: I very much like cookies. 
-- ☕ I know and use: Java, Kotlin, JS, Python, Docker, K8s ;Do you?
-
 # Contact Me:
 
 ![dacord](https://discord.c99.nl/widget/theme-4/508296903960821771.png)
@@ -52,8 +53,8 @@ https://darrennathanael.com
 <!--END_SECTION:waka-->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=DarrenOfficial&layout=compact&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&show_icons=true&bg_color=00000000&text_color=c3c6ce&icon_color=4e64f7)
-## Take the ads
+## Coffee?
 
-[![Image Ads](https://net.dpaste.org/api/v1/ads)](https://ko-fi.com/darrenofficial)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R1311CB)
 
 ---
