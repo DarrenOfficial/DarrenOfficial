@@ -40,11 +40,11 @@ https://darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/oh-my-fish/plugin-dpaste/pull/8) in [oh-my-fish/plugin-dpaste](https://github.com/oh-my-fish/plugin-dpaste)
-2. ❌ Closed PR [#736](https://github.com/SudhanPlayz/Discord-MusicBot/pull/736) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-3. ❌ Closed PR [#737](https://github.com/SudhanPlayz/Discord-MusicBot/pull/737) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-4. 🎉 Merged PR [#9](https://github.com/DarrenOfficial/spotify-list/pull/9) in [DarrenOfficial/spotify-list](https://github.com/DarrenOfficial/spotify-list)
-5. 🎉 Merged PR [#3](https://github.com/DarrenOfficial/spotify-list/pull/3) in [DarrenOfficial/spotify-list](https://github.com/DarrenOfficial/spotify-list)
+1. 🎉 Merged PR [#74](https://github.com/DarrenOfficial/lavalink-list/pull/74) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+2. 💪 Opened PR [#8](https://github.com/oh-my-fish/plugin-dpaste/pull/8) in [oh-my-fish/plugin-dpaste](https://github.com/oh-my-fish/plugin-dpaste)
+3. ❌ Closed PR [#736](https://github.com/SudhanPlayz/Discord-MusicBot/pull/736) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+4. ❌ Closed PR [#737](https://github.com/SudhanPlayz/Discord-MusicBot/pull/737) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+5. 🎉 Merged PR [#9](https://github.com/DarrenOfficial/spotify-list/pull/9) in [DarrenOfficial/spotify-list](https://github.com/DarrenOfficial/spotify-list)
 <!--END_SECTION:activity-->
 
 
