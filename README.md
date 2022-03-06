@@ -17,7 +17,7 @@ _"Always trust what others say or write without ever questioning them. Especiall
 - 📫 How to reach me: [me [at] darrennathanael [dot] com](mailto:me@darrennathanael.com) 
 - ⛄️ Pronouns: He/Him
 - 🍪 Fun fact: Headers are a way to send hidden message.
-- 🍻 I am an adult yet an child at the same time. depending on the time.
+- 🍻 I am an adult yet a child at the same time. depending on the time.
 
 [![iwtf](https://i.dpaste.org/mp1rVfRd/direct.png)](https://github.com/TheOnlyWayUp)
 
