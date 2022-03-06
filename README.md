@@ -17,11 +17,16 @@ _"Always trust what others say or write without ever questioning them. Especiall
 - 📫 How to reach me: [me [at] darrennathanael [dot] com](mailto:me@darrennathanael.com) 
 - ⛄️ Pronouns: He/Him
 - 🍪 Fun fact: Headers are a way to send hidden message.
+- 🍻 I am an adult yet an child at the same time. depending on the time.
+
+
+![](https://i.dpaste.org/mp1rVfRd/direct.png)
+
 # Contact Me:
 
 ![dacord](https://discord.c99.nl/widget/theme-4/508296903960821771.png)
 
-- Discord: [DarrenOfficial#3451](https://discord.com/users/508296903960821771)
+- Discord: [DarrenOfficial#3451](https://discord.darrennathanael.com)
 - Reddit: [DarrenOfficial](https://reddit.com/u/DarrenOfficiallol)
 - Github: [DarrenOfficial](https://github.com/DarrenOfficial)
 - Twitter: [darrenuselinux](https://twitter.com/darrenuselinux)
