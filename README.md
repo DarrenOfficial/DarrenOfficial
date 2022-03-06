@@ -19,8 +19,7 @@ _"Always trust what others say or write without ever questioning them. Especiall
 - 🍪 Fun fact: Headers are a way to send hidden message.
 - 🍻 I am an adult yet an child at the same time. depending on the time.
 
-
-![](https://i.dpaste.org/mp1rVfRd/direct.png)
+[![iwtf](https://i.dpaste.org/mp1rVfRd/direct.png)](https://github.com/TheOnlyWayUp)
 
 # Contact Me:
 
