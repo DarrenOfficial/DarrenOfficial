@@ -1,10 +1,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DarrenOfficial&label=Profile%20views&color=0e75b6&style=flat" alt="DarrenOfficial Profie Views" /> </p>
 
 ### Hello world, I'm Darren, a backend developer 👨‍💻
-I like programming and I like networking and watching data go brrr
-
-### Hire me!
-Looking for System Administrator? Contact DarrenOfficial#3451 on discord or hi@darrennathanael.com
+I like programming, networking and watching data go brrr
 
 _"Always trust what others say or write without ever questioning them. Especially their code." -Albert Einstein_
 
