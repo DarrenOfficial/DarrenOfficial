@@ -60,4 +60,4 @@ https://darrennathanael.com
 
 ---
 
-_Darren Nathanael is not responsible for disapperance, death, or dismemberment._
+_Darren Nathanael is not responsible for accidental digital consciousness transfer, real world manifestations of digital characters, nightmares, night terrors, night sweat, disapperance, death, or dismemberment._
