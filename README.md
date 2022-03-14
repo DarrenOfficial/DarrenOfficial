@@ -32,11 +32,11 @@ _"Always trust what others say or write without ever questioning them. Especiall
 ## New blog alert 📦
 https://darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
+- [Debian 10 to 11](https://darrennathanael.com/post/debian-10-to-11/)
 - [Tmux - Darren&#39;s essential tool.](https://darrennathanael.com/post/tmux-darren-essential/)
 - [setting up tunnelbroker &lpar;networks&rpar;](https://darrennathanael.com/post/tunnelbroker-lavalink-ifup-ifdown/)
 - [The challenge of running lavalink](https://darrennathanael.com/post/challenge-of-running-public-lavalink/)
 - [How I handle jays.host ddos attack](https://darrennathanael.com/post/jayshost/)
-- [setting up tunnelbroker &lpar;netplan&rpar;](https://darrennathanael.com/post/tunnelbroker-lavalink-netplan/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Activity
