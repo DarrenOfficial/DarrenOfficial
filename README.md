@@ -41,11 +41,11 @@ https://darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#749](https://github.com/SudhanPlayz/Discord-MusicBot/issues/749) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-2. 🗣 Commented on [#755](https://github.com/SudhanPlayz/Discord-MusicBot/issues/755) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-3. 💪 Opened PR [#6](https://github.com/sarvjeets/i-use-arch/pull/6) in [sarvjeets/i-use-arch](https://github.com/sarvjeets/i-use-arch)
-4. 💪 Opened PR [#11](https://github.com/LewdHuTao/Lavalink-Status/pull/11) in [LewdHuTao/Lavalink-Status](https://github.com/LewdHuTao/Lavalink-Status)
-5. 🎉 Merged PR [#3](https://github.com/DarrenOfficial/DarrenOfficial/pull/3) in [DarrenOfficial/DarrenOfficial](https://github.com/DarrenOfficial/DarrenOfficial)
+1. 🗣 Commented on [#749](https://github.com/SudhanPlayz/Discord-MusicBot/issues/749) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+2. 🗣 Commented on [#749](https://github.com/SudhanPlayz/Discord-MusicBot/issues/749) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+3. ❗️ Closed issue [#749](https://github.com/SudhanPlayz/Discord-MusicBot/issues/749) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+4. 🗣 Commented on [#755](https://github.com/SudhanPlayz/Discord-MusicBot/issues/755) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+5. 💪 Opened PR [#6](https://github.com/sarvjeets/i-use-arch/pull/6) in [sarvjeets/i-use-arch](https://github.com/sarvjeets/i-use-arch)
 <!--END_SECTION:activity-->
 
 
