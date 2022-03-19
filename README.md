@@ -41,11 +41,11 @@ https://darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#187](https://github.com/DarrenOfficial/dpaste/pull/187) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
-2. 🎉 Merged PR [#186](https://github.com/DarrenOfficial/dpaste/pull/186) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
-3. 🗣 Commented on [#762](https://github.com/SudhanPlayz/Discord-MusicBot/issues/762) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-4. ❗️ Reopened issue [#175](https://github.com/DarrenOfficial/dpaste/issues/175) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
-5. ❗️ Closed issue [#755](https://github.com/SudhanPlayz/Discord-MusicBot/issues/755) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+1. 🗣 Commented on [#77](https://github.com/DarrenOfficial/lavalink-list/issues/77) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+2. 🎉 Merged PR [#77](https://github.com/DarrenOfficial/lavalink-list/pull/77) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+3. 🗣 Commented on [#77](https://github.com/DarrenOfficial/lavalink-list/issues/77) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+4. ❌ Closed PR [#187](https://github.com/DarrenOfficial/dpaste/pull/187) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
+5. 🎉 Merged PR [#186](https://github.com/DarrenOfficial/dpaste/pull/186) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
 <!--END_SECTION:activity-->
 
 
