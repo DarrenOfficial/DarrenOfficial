@@ -41,11 +41,11 @@ https://darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#78](https://github.com/DarrenOfficial/lavalink-list/pull/78) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-2. ❗️ Reopened issue [#766](https://github.com/SudhanPlayz/Discord-MusicBot/issues/766) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-3. ❗️ Closed issue [#766](https://github.com/SudhanPlayz/Discord-MusicBot/issues/766) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-4. ❗️ Closed issue [#763](https://github.com/SudhanPlayz/Discord-MusicBot/issues/763) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-5. 🗣 Commented on [#762](https://github.com/SudhanPlayz/Discord-MusicBot/issues/762) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+1. 🎉 Merged PR [#79](https://github.com/DarrenOfficial/lavalink-list/pull/79) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+2. 🎉 Merged PR [#78](https://github.com/DarrenOfficial/lavalink-list/pull/78) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+3. ❗️ Reopened issue [#766](https://github.com/SudhanPlayz/Discord-MusicBot/issues/766) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+4. ❗️ Closed issue [#766](https://github.com/SudhanPlayz/Discord-MusicBot/issues/766) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+5. ❗️ Closed issue [#763](https://github.com/SudhanPlayz/Discord-MusicBot/issues/763) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 
