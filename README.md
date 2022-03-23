@@ -41,11 +41,11 @@ https://darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/DarrenOfficial/yamb/issues/1) in [DarrenOfficial/yamb](https://github.com/DarrenOfficial/yamb)
-2. 🗣 Commented on [#1](https://github.com/DarrenOfficial/yamb/issues/1) in [DarrenOfficial/yamb](https://github.com/DarrenOfficial/yamb)
-3. 🎉 Merged PR [#192](https://github.com/DarrenOfficial/dpaste/pull/192) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
-4. 🎉 Merged PR [#79](https://github.com/DarrenOfficial/lavalink-list/pull/79) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-5. 🎉 Merged PR [#78](https://github.com/DarrenOfficial/lavalink-list/pull/78) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+1. 🗣 Commented on [#81](https://github.com/DarrenOfficial/lavalink-list/issues/81) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+2. 🎉 Merged PR [#81](https://github.com/DarrenOfficial/lavalink-list/pull/81) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+3. 🗣 Commented on [#81](https://github.com/DarrenOfficial/lavalink-list/issues/81) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+4. 🗣 Commented on [#81](https://github.com/DarrenOfficial/lavalink-list/issues/81) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+5. ❗️ Closed issue [#1](https://github.com/DarrenOfficial/yamb/issues/1) in [DarrenOfficial/yamb](https://github.com/DarrenOfficial/yamb)
 <!--END_SECTION:activity-->
 
 
