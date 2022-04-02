@@ -3,9 +3,6 @@
 ### Hello world, I'm Darren, a backend developer 👨‍💻
 I like programming, networking and watching data go brrr
 
-_"Always trust what others say or write without ever questioning them. Especially their code." -Albert Einstein_
-
-
 
 - 🔭 I’m currently working on my guitar skills
 - 🌴 I’m currently learning CCNA 200 - 301, CompTIA A+ 
@@ -49,15 +46,24 @@ https://darrennathanael.com
 <!--END_SECTION:activity-->
 
 
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=DarrenOfficial&layout=compact&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&show_icons=true&bg_color=00000000&text_color=c3c6ce&icon_color=4e64f7)
+
+
+<details>
+<summary>favourite quotes 🍻</summary>
+<br>
+<i>"Always trust what others say or write without ever questioning them. Especially their code."</i> -Albert Einstein
+<br><br>
+  <i>"If she this easy, then she prolly got a diseasy"</i> -Dr Martin Luther King
+  <br><br>
+  <i>"If a woman is giving you what you want, it is deception."</i> -Sun Tzu, Art of War
+</details>
+
+
 ## Coffee?
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R1311CB)
 
 ---
 
-_Darren Nathanael is not responsible for accidental digital consciousness transfer, real world manifestations of digital characters, nightmares, night terrors, night sweat, disapperance, death, or dismemberment._
+_Darren is not responsible for accidental digital consciousness transfer, real world manifestations of digital characters, nightmares, night terrors, night sweat, disapperance, death, or dismemberment._
