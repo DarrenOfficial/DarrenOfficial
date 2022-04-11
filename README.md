@@ -38,11 +38,11 @@ https://darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#108](https://github.com/DarrenOfficial/lavalink-list/pull/108) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-2. 💪 Opened PR [#108](https://github.com/DarrenOfficial/lavalink-list/pull/108) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-3. 🎉 Merged PR [#107](https://github.com/DarrenOfficial/lavalink-list/pull/107) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-4. ❌ Closed PR [#106](https://github.com/DarrenOfficial/lavalink-list/pull/106) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-5. 🎉 Merged PR [#105](https://github.com/DarrenOfficial/lavalink-list/pull/105) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+1. 🎉 Merged PR [#109](https://github.com/DarrenOfficial/lavalink-list/pull/109) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+2. 💪 Opened PR [#109](https://github.com/DarrenOfficial/lavalink-list/pull/109) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+3. 🎉 Merged PR [#108](https://github.com/DarrenOfficial/lavalink-list/pull/108) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+4. 💪 Opened PR [#108](https://github.com/DarrenOfficial/lavalink-list/pull/108) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+5. 🎉 Merged PR [#107](https://github.com/DarrenOfficial/lavalink-list/pull/107) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
 <!--END_SECTION:activity-->
 
 
