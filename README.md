@@ -40,9 +40,9 @@ https://darrennathanael.com
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#113](https://github.com/DarrenOfficial/lavalink-list/issues/113) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
 2. 🗣 Commented on [#113](https://github.com/DarrenOfficial/lavalink-list/issues/113) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-3. ❌ Closed PR [#113](https://github.com/DarrenOfficial/lavalink-list/pull/113) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-4. 🗣 Commented on [#113](https://github.com/DarrenOfficial/lavalink-list/issues/113) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-5. ❗️ Closed issue [#786](https://github.com/SudhanPlayz/Discord-MusicBot/issues/786) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+3. 🗣 Commented on [#113](https://github.com/DarrenOfficial/lavalink-list/issues/113) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+4. ❌ Closed PR [#113](https://github.com/DarrenOfficial/lavalink-list/pull/113) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+5. 🗣 Commented on [#113](https://github.com/DarrenOfficial/lavalink-list/issues/113) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
 <!--END_SECTION:activity-->
 
 
