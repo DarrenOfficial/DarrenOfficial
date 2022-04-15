@@ -38,11 +38,11 @@ https://darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#111](https://github.com/DarrenOfficial/lavalink-list/pull/111) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-2. 💪 Opened PR [#111](https://github.com/DarrenOfficial/lavalink-list/pull/111) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-3. 🗣 Commented on [#6](https://github.com/oh-my-fish/plugin-dpaste/issues/6) in [oh-my-fish/plugin-dpaste](https://github.com/oh-my-fish/plugin-dpaste)
-4. 🎉 Merged PR [#110](https://github.com/DarrenOfficial/lavalink-list/pull/110) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-5. 💪 Opened PR [#110](https://github.com/DarrenOfficial/lavalink-list/pull/110) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+1. 🗣 Commented on [#760](https://github.com/SudhanPlayz/Discord-MusicBot/issues/760) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+2. 🎉 Merged PR [#111](https://github.com/DarrenOfficial/lavalink-list/pull/111) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+3. 💪 Opened PR [#111](https://github.com/DarrenOfficial/lavalink-list/pull/111) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+4. 🗣 Commented on [#6](https://github.com/oh-my-fish/plugin-dpaste/issues/6) in [oh-my-fish/plugin-dpaste](https://github.com/oh-my-fish/plugin-dpaste)
+5. 🎉 Merged PR [#110](https://github.com/DarrenOfficial/lavalink-list/pull/110) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
 <!--END_SECTION:activity-->
 
 
