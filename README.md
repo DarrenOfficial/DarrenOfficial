@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DarrenOfficial&label=Profile%20views&color=0e75b6&style=flat" alt="DarrenOfficial Profie Views" /> </p>
 
-### Hello world, I'm Darren, a backend developer 👨‍💻
+### Hello world, I'm Darren, a system administrator 👨‍💻
 I like programming, networking and watching data go brrr
 
 
