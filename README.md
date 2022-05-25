@@ -29,11 +29,11 @@ I like programming, networking and watching data go brrr
 ## New blog alert 📦
 https://darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
+- [How to Resize Image on the fly with NGINX](https://darrennathanael.com/post/resize-image-on-the-fly-with-nginx/)
 - [AAPanel IPv6](https://darrennathanael.com/post/aapanel-ipv6/)
 - [Debian 10 to 11](https://darrennathanael.com/post/debian-10-to-11/)
 - [Tmux - Darren&#39;s essential tool.](https://darrennathanael.com/post/tmux-darren-essential/)
 - [setting up tunnelbroker &lpar;networks&rpar;](https://darrennathanael.com/post/tunnelbroker-lavalink-ifup-ifdown/)
-- [The challenge of running lavalink](https://darrennathanael.com/post/challenge-of-running-public-lavalink/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Activity
