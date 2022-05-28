@@ -38,11 +38,11 @@ https://darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#143](https://github.com/DarrenOfficial/dpaste/pull/143) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
-2. ❌ Closed PR [#148](https://github.com/DarrenOfficial/dpaste/pull/148) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
-3. 🗣 Commented on [#148](https://github.com/DarrenOfficial/dpaste/issues/148) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
-4. ❌ Reopened PR [#143](https://github.com/DarrenOfficial/dpaste/pull/143) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
-5. 🗣 Commented on [#143](https://github.com/DarrenOfficial/dpaste/issues/143) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
+1. ❌ Closed PR [#145](https://github.com/DarrenOfficial/lavalink-list/pull/145) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+2. 🗣 Commented on [#145](https://github.com/DarrenOfficial/lavalink-list/issues/145) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+3. 🎉 Merged PR [#143](https://github.com/DarrenOfficial/dpaste/pull/143) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
+4. ❌ Closed PR [#148](https://github.com/DarrenOfficial/dpaste/pull/148) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
+5. 🗣 Commented on [#148](https://github.com/DarrenOfficial/dpaste/issues/148) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
 <!--END_SECTION:activity-->
 
 
