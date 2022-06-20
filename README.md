@@ -38,11 +38,11 @@ https://darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#495](https://github.com/SudhanPlayz/Discord-MusicBot/issues/495) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+1. 🗣 Commented on [#923](https://github.com/SudhanPlayz/Discord-MusicBot/issues/923) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 2. 🗣 Commented on [#921](https://github.com/SudhanPlayz/Discord-MusicBot/issues/921) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-3. 🎉 Merged PR [#917](https://github.com/SudhanPlayz/Discord-MusicBot/pull/917) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-4. 🎉 Merged PR [#913](https://github.com/SudhanPlayz/Discord-MusicBot/pull/913) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-5. 🗣 Commented on [#913](https://github.com/SudhanPlayz/Discord-MusicBot/issues/913) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+3. 🎉 Merged PR [#926](https://github.com/SudhanPlayz/Discord-MusicBot/pull/926) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+4. 🗣 Commented on [#926](https://github.com/SudhanPlayz/Discord-MusicBot/issues/926) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+5. ❗️ Closed issue [#495](https://github.com/SudhanPlayz/Discord-MusicBot/issues/495) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 
