@@ -38,11 +38,11 @@ https://darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1320](https://github.com/umami-software/umami/issues/1320) in [umami-software/umami](https://github.com/umami-software/umami)
-2. 🗣 Commented on [#981](https://github.com/SudhanPlayz/Discord-MusicBot/issues/981) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-3. 🗣 Commented on [#951](https://github.com/SudhanPlayz/Discord-MusicBot/issues/951) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-4. 🗣 Commented on [#981](https://github.com/SudhanPlayz/Discord-MusicBot/issues/981) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-5. 🗣 Commented on [#928](https://github.com/SudhanPlayz/Discord-MusicBot/issues/928) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+1. 🗣 Commented on [#1000](https://github.com/SudhanPlayz/Discord-MusicBot/issues/1000) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+2. 🗣 Commented on [#1320](https://github.com/umami-software/umami/issues/1320) in [umami-software/umami](https://github.com/umami-software/umami)
+3. 🗣 Commented on [#981](https://github.com/SudhanPlayz/Discord-MusicBot/issues/981) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+4. 🗣 Commented on [#951](https://github.com/SudhanPlayz/Discord-MusicBot/issues/951) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+5. 🗣 Commented on [#981](https://github.com/SudhanPlayz/Discord-MusicBot/issues/981) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 
