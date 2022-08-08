@@ -38,11 +38,11 @@ https://darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#9](https://github.com/DarrenOfficial/lavalink-replit/issues/9) in [DarrenOfficial/lavalink-replit](https://github.com/DarrenOfficial/lavalink-replit)
-2. 🗣 Commented on [#9](https://github.com/DarrenOfficial/lavalink-replit/issues/9) in [DarrenOfficial/lavalink-replit](https://github.com/DarrenOfficial/lavalink-replit)
-3. ❗️ Closed issue [#10](https://github.com/DarrenOfficial/lavalink-replit/issues/10) in [DarrenOfficial/lavalink-replit](https://github.com/DarrenOfficial/lavalink-replit)
-4. 🗣 Commented on [#10](https://github.com/DarrenOfficial/lavalink-replit/issues/10) in [DarrenOfficial/lavalink-replit](https://github.com/DarrenOfficial/lavalink-replit)
-5. ❗️ Closed issue [#1013](https://github.com/SudhanPlayz/Discord-MusicBot/issues/1013) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+1. 🗣 Commented on [#11](https://github.com/DarrenOfficial/lavalink-replit/issues/11) in [DarrenOfficial/lavalink-replit](https://github.com/DarrenOfficial/lavalink-replit)
+2. ❗️ Closed issue [#9](https://github.com/DarrenOfficial/lavalink-replit/issues/9) in [DarrenOfficial/lavalink-replit](https://github.com/DarrenOfficial/lavalink-replit)
+3. 🗣 Commented on [#9](https://github.com/DarrenOfficial/lavalink-replit/issues/9) in [DarrenOfficial/lavalink-replit](https://github.com/DarrenOfficial/lavalink-replit)
+4. ❗️ Closed issue [#10](https://github.com/DarrenOfficial/lavalink-replit/issues/10) in [DarrenOfficial/lavalink-replit](https://github.com/DarrenOfficial/lavalink-replit)
+5. 🗣 Commented on [#10](https://github.com/DarrenOfficial/lavalink-replit/issues/10) in [DarrenOfficial/lavalink-replit](https://github.com/DarrenOfficial/lavalink-replit)
 <!--END_SECTION:activity-->
 
 
