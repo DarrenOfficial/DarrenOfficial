@@ -38,11 +38,11 @@ https://darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#214](https://github.com/DarrenOfficial/dpaste/issues/214) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
-2. 🎉 Merged PR [#11](https://github.com/DarrenOfficial/lavalink-replit/pull/11) in [DarrenOfficial/lavalink-replit](https://github.com/DarrenOfficial/lavalink-replit)
-3. 🗣 Commented on [#11](https://github.com/DarrenOfficial/lavalink-replit/issues/11) in [DarrenOfficial/lavalink-replit](https://github.com/DarrenOfficial/lavalink-replit)
+1. 🗣 Commented on [#215](https://github.com/DarrenOfficial/dpaste/issues/215) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
+2. 🗣 Commented on [#214](https://github.com/DarrenOfficial/dpaste/issues/214) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
+3. 🎉 Merged PR [#11](https://github.com/DarrenOfficial/lavalink-replit/pull/11) in [DarrenOfficial/lavalink-replit](https://github.com/DarrenOfficial/lavalink-replit)
 4. 🗣 Commented on [#11](https://github.com/DarrenOfficial/lavalink-replit/issues/11) in [DarrenOfficial/lavalink-replit](https://github.com/DarrenOfficial/lavalink-replit)
-5. ❗️ Closed issue [#9](https://github.com/DarrenOfficial/lavalink-replit/issues/9) in [DarrenOfficial/lavalink-replit](https://github.com/DarrenOfficial/lavalink-replit)
+5. 🗣 Commented on [#11](https://github.com/DarrenOfficial/lavalink-replit/issues/11) in [DarrenOfficial/lavalink-replit](https://github.com/DarrenOfficial/lavalink-replit)
 <!--END_SECTION:activity-->
 
 
