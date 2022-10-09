@@ -38,11 +38,11 @@ https://darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#217](https://github.com/DarrenOfficial/lavalink-list/pull/217) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-2. 🗣 Commented on [#210](https://github.com/DarrenOfficial/lavalink-list/issues/210) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+1. 🗣 Commented on [#1096](https://github.com/SudhanPlayz/Discord-MusicBot/issues/1096) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+2. 🎉 Merged PR [#217](https://github.com/DarrenOfficial/lavalink-list/pull/217) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
 3. 🗣 Commented on [#210](https://github.com/DarrenOfficial/lavalink-list/issues/210) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-4. 🎉 Merged PR [#209](https://github.com/DarrenOfficial/lavalink-list/pull/209) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-5. 🎉 Merged PR [#208](https://github.com/DarrenOfficial/lavalink-list/pull/208) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+4. 🗣 Commented on [#210](https://github.com/DarrenOfficial/lavalink-list/issues/210) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+5. 🎉 Merged PR [#209](https://github.com/DarrenOfficial/lavalink-list/pull/209) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
 <!--END_SECTION:activity-->
 
 
