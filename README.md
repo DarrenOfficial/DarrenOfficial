@@ -38,11 +38,11 @@ https://darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1101](https://github.com/SudhanPlayz/Discord-MusicBot/issues/1101) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+1. 🎉 Merged PR [#1104](https://github.com/SudhanPlayz/Discord-MusicBot/pull/1104) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 2. 🗣 Commented on [#1101](https://github.com/SudhanPlayz/Discord-MusicBot/issues/1101) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 3. 🗣 Commented on [#1101](https://github.com/SudhanPlayz/Discord-MusicBot/issues/1101) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 4. 🗣 Commented on [#1101](https://github.com/SudhanPlayz/Discord-MusicBot/issues/1101) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-5. 🎉 Merged PR [#219](https://github.com/DarrenOfficial/lavalink-list/pull/219) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+5. 🗣 Commented on [#1101](https://github.com/SudhanPlayz/Discord-MusicBot/issues/1101) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 
