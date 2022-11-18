@@ -38,11 +38,11 @@ https://darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4424](https://github.com/pterodactyl/panel/issues/4424) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
-2. ❗️ Closed issue [#240](https://github.com/DarrenOfficial/lavalink-list/issues/240) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-3. ❌ Closed PR [#239](https://github.com/DarrenOfficial/lavalink-list/pull/239) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-4. 🎉 Merged PR [#238](https://github.com/DarrenOfficial/lavalink-list/pull/238) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-5. 🎉 Merged PR [#235](https://github.com/DarrenOfficial/lavalink-list/pull/235) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+1. 🎉 Merged PR [#241](https://github.com/DarrenOfficial/lavalink-list/pull/241) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+2. 💪 Opened PR [#241](https://github.com/DarrenOfficial/lavalink-list/pull/241) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+3. 🗣 Commented on [#4424](https://github.com/pterodactyl/panel/issues/4424) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+4. ❗️ Closed issue [#240](https://github.com/DarrenOfficial/lavalink-list/issues/240) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+5. ❌ Closed PR [#239](https://github.com/DarrenOfficial/lavalink-list/pull/239) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
 <!--END_SECTION:activity-->
 
 
