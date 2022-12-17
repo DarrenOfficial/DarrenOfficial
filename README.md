@@ -29,11 +29,11 @@ I like programming, networking and watching data go brrr
 ## New blog alert 📦
 https://darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
+- [2b2t: A Minecraft Adventure Like No Other](https://darrennathanael.com/posts/2b2t-a-minecraft-adventure-like-no-other/)
 - [Finding Meaning and Purpose in Life: An Exploration of Human Existence](https://darrennathanael.com/posts/finding-meaning-and-purpose-in-life/)
 - [Sociology.](https://darrennathanael.com/posts/sociology/)
 - [What is AWS lambda?](https://darrennathanael.com/posts/what-is-aws-lambda/)
 - [How I setup my serverless website for free using Cloudflare pages](https://darrennathanael.com/post/serverless-website-using-cloudflare-pages/)
-- [How to configure fail2ban, and automatically report it to AbuseIPDB.](https://darrennathanael.com/post/fail2ban-ssh-abuseipdb/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Activity
