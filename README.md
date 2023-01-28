@@ -29,11 +29,11 @@ I like programming, networking and watching data go brrr
 ## New blog alert 📦
 https://darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
+- [An update on Life](https://darrennathanael.com/posts/an-update-on-life/)
 - [The history and evolution of JavaScript](https://darrennathanael.com/posts/origin-of-javascript/)
 - [2b2t: A Minecraft Adventure Like No Other](https://darrennathanael.com/posts/2b2t-a-minecraft-adventure-like-no-other/)
 - [Finding Meaning and Purpose in Life: An Exploration of Human Existence](https://darrennathanael.com/posts/finding-meaning-and-purpose-in-life/)
 - [Sociology.](https://darrennathanael.com/posts/sociology/)
-- [What is AWS lambda?](https://darrennathanael.com/posts/what-is-aws-lambda/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Activity
