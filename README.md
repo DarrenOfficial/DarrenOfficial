@@ -11,8 +11,6 @@ I like programming, networking and watching data go brrr
 - 🍪 Fun fact: Headers are a way to send hidden message.
 - 🍻 I am an adult yet a child at the same time. depending on the time.
 
-[![iwtf](https://i.dpaste.org/mp1rVfRd/direct.png)](https://github.com/TheOnlyWayUp)
-
 # Contact Me:
 
 ![dacord](https://discord.c99.nl/widget/theme-4/508296903960821771.png)
