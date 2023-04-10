@@ -34,11 +34,11 @@ https://darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#638](https://github.com/SudhanPlayz/Discord-MusicBot/issues/638) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-2. 🎉 Merged PR [#301](https://github.com/DarrenOfficial/lavalink-list/pull/301) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-3. 🎉 Merged PR [#300](https://github.com/DarrenOfficial/lavalink-list/pull/300) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-4. 🎉 Merged PR [#1135](https://github.com/SudhanPlayz/Discord-MusicBot/pull/1135) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-5. 🗣 Commented on [#1191](https://github.com/SudhanPlayz/Discord-MusicBot/issues/1191) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+1. 🗣 Commented on [#341](https://github.com/beyarkay/eskom-calendar/issues/341) in [beyarkay/eskom-calendar](https://github.com/beyarkay/eskom-calendar)
+2. 🗣 Commented on [#232](https://github.com/DarrenOfficial/dpaste/issues/232) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
+3. 🗣 Commented on [#638](https://github.com/SudhanPlayz/Discord-MusicBot/issues/638) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+4. 🎉 Merged PR [#301](https://github.com/DarrenOfficial/lavalink-list/pull/301) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+5. 🎉 Merged PR [#300](https://github.com/DarrenOfficial/lavalink-list/pull/300) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
 <!--END_SECTION:activity-->
 
 
