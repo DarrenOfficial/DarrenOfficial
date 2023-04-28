@@ -34,11 +34,11 @@ https://darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#304](https://github.com/DarrenOfficial/lavalink-list/pull/304) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-2. 🎉 Merged PR [#305](https://github.com/DarrenOfficial/lavalink-list/pull/305) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-3. 🎉 Merged PR [#307](https://github.com/DarrenOfficial/lavalink-list/pull/307) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-4. 🎉 Merged PR [#303](https://github.com/DarrenOfficial/lavalink-list/pull/303) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-5. 🗣 Commented on [#341](https://github.com/beyarkay/eskom-calendar/issues/341) in [beyarkay/eskom-calendar](https://github.com/beyarkay/eskom-calendar)
+1. ❌ Closed PR [#1217](https://github.com/SudhanPlayz/Discord-MusicBot/pull/1217) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+2. 🎉 Merged PR [#304](https://github.com/DarrenOfficial/lavalink-list/pull/304) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+3. 🎉 Merged PR [#305](https://github.com/DarrenOfficial/lavalink-list/pull/305) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+4. 🎉 Merged PR [#307](https://github.com/DarrenOfficial/lavalink-list/pull/307) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+5. 🎉 Merged PR [#303](https://github.com/DarrenOfficial/lavalink-list/pull/303) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
 <!--END_SECTION:activity-->
 
 
