@@ -15,7 +15,7 @@ I like programming, networking and watching data go brrr
 
 ![dacord](https://discord.c99.nl/widget/theme-4/508296903960821771.png)
 
-- Discord: [DarrenOfficial#3451](https://discord.darrennathanael.com)
+- Discord: [DarrenOfficial](https://discord.darrennathanael.com)
 - Reddit: [DarrenOfficial](https://reddit.com/u/DarrenOfficiallol)
 - Github: [DarrenOfficial](https://github.com/DarrenOfficial)
 - Twitter: [darrenuselinux](https://twitter.com/darrenuselinux)
