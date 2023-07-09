@@ -34,11 +34,11 @@ https://darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#330](https://github.com/DarrenOfficial/lavalink-list/pull/330) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-2. ❗ Opened issue [#93](https://github.com/libreddit/libreddit-instances/issues/93) in [libreddit/libreddit-instances](https://github.com/libreddit/libreddit-instances)
-3. 🎉 Merged PR [#326](https://github.com/DarrenOfficial/lavalink-list/pull/326) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-4. 🎉 Merged PR [#324](https://github.com/DarrenOfficial/lavalink-list/pull/324) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-5. 🎉 Merged PR [#323](https://github.com/DarrenOfficial/lavalink-list/pull/323) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+1. 🎉 Merged PR [#331](https://github.com/DarrenOfficial/lavalink-list/pull/331) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+2. 🎉 Merged PR [#330](https://github.com/DarrenOfficial/lavalink-list/pull/330) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+3. ❗ Opened issue [#93](https://github.com/libreddit/libreddit-instances/issues/93) in [libreddit/libreddit-instances](https://github.com/libreddit/libreddit-instances)
+4. 🎉 Merged PR [#326](https://github.com/DarrenOfficial/lavalink-list/pull/326) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+5. 🎉 Merged PR [#324](https://github.com/DarrenOfficial/lavalink-list/pull/324) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
 <!--END_SECTION:activity-->
 
 
