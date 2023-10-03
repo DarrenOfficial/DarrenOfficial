@@ -27,8 +27,8 @@ https://darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
 - [An update on Life](https://blog.darrennathanael.com/posts/an-update-on-life/)
 - [The history and evolution of JavaScript](https://blog.darrennathanael.com/posts/origin-of-javascript/)
-- [2b2t: A Minecraft Adventure Like No Other](https://blog.darrennathanael.com/posts/2b2t-a-minecraft-adventure-like-no-other/)
-- [Finding Meaning and Purpose in Life: An Exploration of Human Existence](https://blog.darrennathanael.com/posts/finding-meaning-and-purpose-in-life/)
+- [2b2t: A Minecraft Adventure Like No Other](https://blog.darrennathanael.com/archive/2b2t-a-minecraft-adventure-like-no-other/)
+- [Finding Meaning and Purpose in Life: An Exploration of Human Existence](https://blog.darrennathanael.com/archive/finding-meaning-and-purpose-in-life/)
 - [Sociology.](https://blog.darrennathanael.com/posts/sociology/)
 <!-- BLOG-POST-LIST:END -->
 
