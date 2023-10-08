@@ -25,11 +25,11 @@ I like programming, networking and watching data go brrr
 ## New blog alert 📦
 https://darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
+- [phpize not found - Fix for Debian and Ubuntu](https://blog.darrennathanael.com/posts/phpize-not-found/)
 - [King of Wrath - Book Thing?](https://blog.darrennathanael.com/posts/king-of-wrath/)
 - [An update on Life](https://blog.darrennathanael.com/posts/an-update-on-life/)
 - [The history and evolution of JavaScript](https://blog.darrennathanael.com/posts/origin-of-javascript/)
 - [2b2t: A Minecraft Adventure Like No Other](https://blog.darrennathanael.com/archive/2b2t-a-minecraft-adventure-like-no-other/)
-- [Finding Meaning and Purpose in Life: An Exploration of Human Existence](https://blog.darrennathanael.com/archive/finding-meaning-and-purpose-in-life/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Activity
