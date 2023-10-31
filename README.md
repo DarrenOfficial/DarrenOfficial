@@ -25,11 +25,11 @@ I like programming, networking and watching data go brrr
 ## New blog alert 📦
 https://darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
+- [Mattermost - Open Source Team Collaboration](https://blog.darrennathanael.com/posts/mattermost-review/)
 - [Spotify vs YouTube Music?](https://blog.darrennathanael.com/posts/spotify-or-youtube-music/)
 - [phpize not found - Fix for Debian and Ubuntu](https://blog.darrennathanael.com/posts/phpize-not-found/)
 - [King of Wrath - Book Thing?](https://blog.darrennathanael.com/posts/king-of-wrath/)
 - [An update on Life](https://blog.darrennathanael.com/posts/an-update-on-life/)
-- [The history and evolution of JavaScript](https://blog.darrennathanael.com/posts/origin-of-javascript/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Activity
