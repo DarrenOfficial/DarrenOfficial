@@ -25,11 +25,11 @@ I like programming, networking and watching data go brrr
 ## New blog alert 📦
 https://darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
+- [New connect page](https://blog.darrennathanael.com/posts/new-connect-page/)
 - [The Bubbly Extrovert.docx](https://blog.darrennathanael.com/posts/the-bubbly-extrovert/)
 - [I lost a TB of data today - And it&#39;s alright.](https://blog.darrennathanael.com/posts/i-lost-a-tb-of-data-today/)
 - [Mattermost - Open Source Team Collaboration](https://blog.darrennathanael.com/posts/mattermost-review/)
 - [Spotify vs YouTube Music?](https://blog.darrennathanael.com/posts/spotify-or-youtube-music/)
-- [phpize not found - Fix for Debian and Ubuntu](https://blog.darrennathanael.com/posts/phpize-not-found/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Activity
