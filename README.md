@@ -25,11 +25,11 @@ I like programming, networking and watching data go brrr
 ## New blog alert 📦
 https://darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
+- [EU being a chad, they&#39;re fixing Microsoft Windows.](https://blog.darrennathanael.com/posts/eu-fixing-windows/)
 - [How to connect your domain to Minecraft using SRV records - Cloudflare](https://blog.darrennathanael.com/posts/setting-up-a-srv-record-for-mc/)
 - [Spotify Audiobook - Yummy / Part 1](https://blog.darrennathanael.com/posts/spotify-audiobook-yummy/)
 - [New connect page](https://blog.darrennathanael.com/posts/new-connect-page/)
 - [The Bubbly Extrovert.docx](https://blog.darrennathanael.com/posts/the-bubbly-extrovert/)
-- [I lost a TB of data today - And it&#39;s alright.](https://blog.darrennathanael.com/posts/i-lost-a-tb-of-data-today/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Activity
