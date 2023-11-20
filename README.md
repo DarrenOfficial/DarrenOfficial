@@ -25,11 +25,11 @@ I like programming, networking and watching data go brrr
 ## New blog alert 📦
 https://darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
+- [Youtube has started to artificially slow down video load times if you use Firefox. Spoofing Chrome magically makes this problem go away.](https://blog.darrennathanael.com/posts/youtube-has-started-to-artificially-slow-down-video-load-times-if-you-use-firefox/)
 - [EU being a chad, they&#39;re fixing Microsoft Windows.](https://blog.darrennathanael.com/posts/eu-fixing-windows/)
 - [How to connect your domain to Minecraft using SRV records - Cloudflare](https://blog.darrennathanael.com/posts/setting-up-a-srv-record-for-mc/)
 - [Spotify Audiobook - Yummy / Part 1](https://blog.darrennathanael.com/posts/spotify-audiobook-yummy/)
 - [New connect page](https://blog.darrennathanael.com/posts/new-connect-page/)
-- [The Bubbly Extrovert.docx](https://blog.darrennathanael.com/posts/the-bubbly-extrovert/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Activity
