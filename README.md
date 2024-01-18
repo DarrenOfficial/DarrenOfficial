@@ -25,11 +25,11 @@ I like programming, networking and watching data go brrr
 ## New blog alert 📦
 https://darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
+- [Buybye Microsoft](https://blog.darrennathanael.com/posts/i-ditched-windows/)
 - [MikroTik hAP AX3 - Slow WiFi &amp; Poor Performance?](https://blog.darrennathanael.com/posts/mikrotik-hap-ax3-wifi/)
 - [Zipline - That next generation File Upload Server](https://blog.darrennathanael.com/posts/zipline/)
 - [UniFi Network Application 8.0.7](https://blog.darrennathanael.com/posts/unifi-8/)
 - [Youtube has started to artificially slow down video load times if you use Firefox. Spoofing Chrome magically makes this problem go away.](https://blog.darrennathanael.com/posts/youtube-has-started-to-artificially-slow-down-video-load-times-if-you-use-firefox/)
-- [EU being a chad, they&#39;re fixing Microsoft Windows.](https://blog.darrennathanael.com/posts/eu-fixing-windows/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Activity
