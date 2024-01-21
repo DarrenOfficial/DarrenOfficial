@@ -25,11 +25,11 @@ I like programming, networking and watching data go brrr
 ## New blog alert 📦
 https://darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
+- [EQ&#39;ing Mackie CR3X - Pulsewire - Fedora Linux](https://blog.darrennathanael.com/posts/mackie-cr3x-eq/)
 - [Discord on Fedora - Building Discord From Scratch](https://blog.darrennathanael.com/posts/discord-on-fedora/)
 - [Focusrite Scarlett 2i2 3rd Gen - A Year and a Half Later](https://blog.darrennathanael.com/posts/focusrite-scarlett-2i2-3rd-gen-year/)
 - [Buybye Microsoft](https://blog.darrennathanael.com/posts/i-ditched-windows/)
 - [MikroTik hAP AX3 - Slow WiFi &amp; Poor Performance?](https://blog.darrennathanael.com/posts/mikrotik-hap-ax3-wifi/)
-- [Zipline - That next generation File Upload Server](https://blog.darrennathanael.com/posts/zipline/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Activity
