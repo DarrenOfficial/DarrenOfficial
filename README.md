@@ -25,11 +25,11 @@ I like programming, networking and watching data go brrr
 ## New blog alert 📦
 https://darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
+- [Taming Seraphine](https://blog.darrennathanael.com/posts/taming-seraphine/)
 - [I Am Right Here](https://blog.darrennathanael.com/posts/i-am-right-here/)
 - [What I’m doing now](https://blog.darrennathanael.com/now/)
 - [EQ&#39;ing Mackie CR3X - Pulsewire - Fedora Linux](https://blog.darrennathanael.com/posts/mackie-cr3x-eq/)
 - [Discord on Fedora - Building Discord From Scratch](https://blog.darrennathanael.com/posts/discord-on-fedora/)
-- [Focusrite Scarlett 2i2 3rd Gen - A Year and a Half Later](https://blog.darrennathanael.com/posts/focusrite-scarlett-2i2-3rd-gen-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Activity
