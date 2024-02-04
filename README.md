@@ -25,11 +25,11 @@ I like programming, networking and watching data go brrr
 ## New blog alert 📦
 https://darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
+- [Lovesick Acoustic Chords by Jenna Raine](https://blog.darrennathanael.com/posts/lovesick/)
 - [Taming Seraphine](https://blog.darrennathanael.com/posts/taming-seraphine/)
 - [I Am Right Here](https://blog.darrennathanael.com/posts/i-am-right-here/)
 - [What I’m doing now](https://blog.darrennathanael.com/now/)
 - [EQ&#39;ing Mackie CR3X - Pulsewire - Fedora Linux](https://blog.darrennathanael.com/posts/mackie-cr3x-eq/)
-- [Discord on Fedora - Building Discord From Scratch](https://blog.darrennathanael.com/posts/discord-on-fedora/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Activity
