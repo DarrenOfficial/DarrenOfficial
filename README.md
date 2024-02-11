@@ -25,11 +25,11 @@ I like programming, networking and watching data go brrr
 ## New blog alert 📦
 https://darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
-- [Debian 11 to 12](https://blog.darrennathanael.com/posts/debian-11-to-12/)
-- [Wi-Fi setup on hAP ax^3](https://blog.darrennathanael.com/posts/mikrotik-hap-ax3-wifi-config/)
 - [Living By Faith](https://blog.darrennathanael.com/posts/living-by-faith/)
 - [Firm Foundation - Breaking new subs?](https://blog.darrennathanael.com/posts/more-subs-more-salvation/)
 - [Lovesick Acoustic Chords by Jenna Raine](https://blog.darrennathanael.com/posts/lovesick/)
+- [Taming Seraphine](https://blog.darrennathanael.com/posts/taming-seraphine/)
+- [I Am Right Here](https://blog.darrennathanael.com/posts/i-am-right-here/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Activity
