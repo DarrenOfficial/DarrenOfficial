@@ -25,11 +25,11 @@ I like programming, networking and watching data go brrr
 ## New blog alert 📦
 https://darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
+- [Path.NET might not be a path anymore](https://blog.darrennathanael.com/posts/path-no-path/)
 - [Path.NET Available Firewall Filters](https://blog.darrennathanael.com/posts/path/)
 - [Wake-On-Lan Fedora 39 Setup](https://blog.darrennathanael.com/posts/wol-fedora/)
 - [Transfer Spotify to Youtube Music free](https://blog.darrennathanael.com/posts/transfer-spotify-to-youtube/)
 - [A New Way to Love](https://blog.darrennathanael.com/posts/a-new-way-to-love/)
-- [Debian 11 to 12](https://blog.darrennathanael.com/posts/debian-11-to-12/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Activity
