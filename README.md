@@ -25,11 +25,11 @@ I like programming, networking and watching data go brrr
 ## New blog alert 📦
 https://darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
-- [Living By Faith](https://blog.darrennathanael.com/posts/living-by-faith/)
-- [Firm Foundation - Breaking new subs?](https://blog.darrennathanael.com/posts/more-subs-more-salvation/)
-- [Lovesick Acoustic Chords by Jenna Raine](https://blog.darrennathanael.com/posts/lovesick/)
-- [Taming Seraphine](https://blog.darrennathanael.com/posts/taming-seraphine/)
-- [I Am Right Here](https://blog.darrennathanael.com/posts/i-am-right-here/)
+- [Path.NET might not be a path anymore](https://blog.darrennathanael.com/posts/path-no-path/)
+- [Path.NET Available Firewall Filters](https://blog.darrennathanael.com/posts/path/)
+- [Wake-On-Lan Fedora 39 Setup](https://blog.darrennathanael.com/posts/wol-fedora/)
+- [Transfer Spotify to Youtube Music free](https://blog.darrennathanael.com/posts/transfer-spotify-to-youtube/)
+- [A New Way to Love](https://blog.darrennathanael.com/posts/a-new-way-to-love/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Activity
