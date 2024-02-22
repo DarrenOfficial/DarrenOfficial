@@ -25,11 +25,11 @@ I like programming, networking and watching data go brrr
 ## New blog alert 📦
 https://darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
-- [🙌 Why Do We Worship?](https://blog.darrennathanael.com/posts/why-do-we-worship/)
 - [Mattermost security updates 9.4.3, 9.3.2, 9.2.6, 8.1.10 &lpar;ESR&rpar; available](https://blog.darrennathanael.com/posts/mattermost-security-updates-9-4-3-9-3-2-9-2-6-8-1-10-esr-available/)
 - [Path.NET might not be a path anymore](https://blog.darrennathanael.com/posts/path-no-path/)
 - [Path.NET Available Firewall Filters](https://blog.darrennathanael.com/posts/path/)
 - [Wake-On-Lan Fedora 39 Setup](https://blog.darrennathanael.com/posts/wol-fedora/)
+- [Transfer Spotify to Youtube Music free](https://blog.darrennathanael.com/posts/transfer-spotify-to-youtube/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Activity
