@@ -6,7 +6,7 @@ I like programming, networking and watching data go brrr
 - 🌴 I’m currently learning CCNA 200 - 301, CompTIA A+ 
 - 🚀 Sometimes I'm slow on everywhere else but email, because email notification works.
 - 💬 Ask me about Network deployment, and any server related stuff 
-- 📫 How to reach me: [me [at] darrennathanael [dot] com](mailto:me@darrennathanael.com) 
+- 📫 How to reach me: [me [at] darrennathanael [dot] com](mailto:me@darrennathanael.com) alt [darren [at] dpaste [dot] org](mailto:darren@dpaste.org)
 - ⛄️ Pronouns: He/Him
 - 🍪 Fun fact: Headers are a way to send hidden message.
 - 🍻 I am an adult yet a child at the same time. depending on the time.
@@ -16,7 +16,6 @@ I like programming, networking and watching data go brrr
 ![dacord](https://discord.c99.nl/widget/theme-4/508296903960821771.png)
 
 - Discord: [DarrenOfficial](https://discord.darrennathanael.com)
-- Reddit: [DarrenOfficial](https://reddit.com/u/DarrenOfficiallol)
 - Github: [DarrenOfficial](https://github.com/DarrenOfficial)
 - Twitter: [darrenuselinux](https://twitter.com/darrenuselinux)
 
