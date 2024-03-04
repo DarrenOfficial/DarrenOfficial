@@ -9,7 +9,6 @@ I like programming, networking and watching data go brrr
 - 📫 How to reach me: [me [at] darrennathanael [dot] com](mailto:me@darrennathanael.com) alt [darren [at] dpaste [dot] org](mailto:darren@dpaste.org)
 - ⛄️ Pronouns: He/Him
 - 🍪 Fun fact: Headers are a way to send hidden message.
-- 🍻 I am an adult yet a child at the same time. depending on the time.
 
 # Contact Me:
 
@@ -22,7 +21,7 @@ I like programming, networking and watching data go brrr
 
 ---
 ## New blog alert 📦
-https://darrennathanael.com
+https://blog.darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
 - [Google and Yahoo DMARC requirement](https://blog.darrennathanael.com/posts/dmarc-it/)
 - [How to Listen and Pray](https://blog.darrennathanael.com/posts/how-to-listen-and-pray/)
