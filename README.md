@@ -23,11 +23,11 @@ I like programming, networking and watching data go brrr
 ## New blog alert 📦
 https://blog.darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
+- [Git Myself Because GitHub Cannot Be Trusted.](https://blog.darrennathanael.com/posts/git-myself/)
 - [Google and Yahoo DMARC requirement](https://blog.darrennathanael.com/posts/dmarc-it/)
 - [How to Listen and Pray](https://blog.darrennathanael.com/posts/how-to-listen-and-pray/)
 - [🙌 Why Do We Worship?](https://blog.darrennathanael.com/posts/why-do-we-worship/)
 - [Mattermost security updates 9.4.3, 9.3.2, 9.2.6, 8.1.10 &lpar;ESR&rpar; available](https://blog.darrennathanael.com/posts/mattermost-security-updates-9-4-3-9-3-2-9-2-6-8-1-10-esr-available/)
-- [Path.NET might not be a path anymore](https://blog.darrennathanael.com/posts/path-no-path/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Activity
