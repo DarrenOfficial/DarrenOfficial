@@ -32,11 +32,11 @@ https://blog.darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#217](https://github.com/wtfnotavailable/Discord-MusicBot/issues/217) in [wtfnotavailable/Discord-MusicBot](https://github.com/wtfnotavailable/Discord-MusicBot)
-2. 🎉 Merged PR [#467](https://github.com/DarrenOfficial/lavalink-list/pull/467) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-3. 🎉 Merged PR [#468](https://github.com/DarrenOfficial/lavalink-list/pull/468) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-4. 🎉 Merged PR [#466](https://github.com/DarrenOfficial/lavalink-list/pull/466) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-5. 🗣 Commented on [#216](https://github.com/wtfnotavailable/Discord-MusicBot/issues/216#issuecomment-1990846821) in [wtfnotavailable/Discord-MusicBot](https://github.com/wtfnotavailable/Discord-MusicBot)
+1. 🗣 Commented on [#250](https://github.com/Xyphyn/photon/pull/250#issuecomment-1999620744) in [Xyphyn/photon](https://github.com/Xyphyn/photon)
+2. 🔒 Closed issue [#217](https://github.com/wtfnotavailable/Discord-MusicBot/issues/217) in [wtfnotavailable/Discord-MusicBot](https://github.com/wtfnotavailable/Discord-MusicBot)
+3. 🎉 Merged PR [#467](https://github.com/DarrenOfficial/lavalink-list/pull/467) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+4. 🎉 Merged PR [#468](https://github.com/DarrenOfficial/lavalink-list/pull/468) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+5. 🎉 Merged PR [#466](https://github.com/DarrenOfficial/lavalink-list/pull/466) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
 <!--END_SECTION:activity-->
 
 
