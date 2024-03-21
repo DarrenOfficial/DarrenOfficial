@@ -32,11 +32,11 @@ https://blog.darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/redlib-org/redlib-instances/pull/21) in [redlib-org/redlib-instances](https://github.com/redlib-org/redlib-instances)
-2. 🎉 Merged PR [#470](https://github.com/DarrenOfficial/lavalink-list/pull/470) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-3. 🗣 Commented on [#250](https://github.com/Xyphyn/photon/pull/250#issuecomment-1999620744) in [Xyphyn/photon](https://github.com/Xyphyn/photon)
-4. 🔒 Closed issue [#217](https://github.com/wtfnotavailable/Discord-MusicBot/issues/217) in [wtfnotavailable/Discord-MusicBot](https://github.com/wtfnotavailable/Discord-MusicBot)
-5. 🎉 Merged PR [#467](https://github.com/DarrenOfficial/lavalink-list/pull/467) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+1. 🎉 Merged PR [#471](https://github.com/DarrenOfficial/lavalink-list/pull/471) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+2. 💪 Opened PR [#21](https://github.com/redlib-org/redlib-instances/pull/21) in [redlib-org/redlib-instances](https://github.com/redlib-org/redlib-instances)
+3. 🎉 Merged PR [#470](https://github.com/DarrenOfficial/lavalink-list/pull/470) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+4. 🗣 Commented on [#250](https://github.com/Xyphyn/photon/pull/250#issuecomment-1999620744) in [Xyphyn/photon](https://github.com/Xyphyn/photon)
+5. 🔒 Closed issue [#217](https://github.com/wtfnotavailable/Discord-MusicBot/issues/217) in [wtfnotavailable/Discord-MusicBot](https://github.com/wtfnotavailable/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 
