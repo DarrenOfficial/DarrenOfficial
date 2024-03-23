@@ -23,11 +23,11 @@ I like programming, networking and watching data go brrr
 ## New blog alert 📦
 https://blog.darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
+- [To the tears at martian sail](https://blog.darrennathanael.com/posts/to-the-tears-at-martian-sail/)
 - [Let The Heavens Open](https://blog.darrennathanael.com/posts/let-the-heavens-open/)
 - [Git Myself Because GitHub Cannot Be Trusted.](https://blog.darrennathanael.com/posts/git-myself/)
 - [Google and Yahoo DMARC requirement](https://blog.darrennathanael.com/posts/dmarc-it/)
 - [How to Listen and Pray](https://blog.darrennathanael.com/posts/how-to-listen-and-pray/)
-- [🙌 Why Do We Worship?](https://blog.darrennathanael.com/posts/why-do-we-worship/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Activity
