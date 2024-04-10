@@ -32,11 +32,11 @@ https://blog.darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#175](https://github.com/wtfnotavailable/Discord-MusicBot/issues/175#issuecomment-2046786567) in [wtfnotavailable/Discord-MusicBot](https://github.com/wtfnotavailable/Discord-MusicBot)
-2. 🔒 Closed issue [#203](https://github.com/wtfnotavailable/Discord-MusicBot/issues/203) in [wtfnotavailable/Discord-MusicBot](https://github.com/wtfnotavailable/Discord-MusicBot)
-3. 🗣 Commented on [#208](https://github.com/wtfnotavailable/Discord-MusicBot/issues/208#issuecomment-2046776236) in [wtfnotavailable/Discord-MusicBot](https://github.com/wtfnotavailable/Discord-MusicBot)
-4. 🔒 Closed issue [#208](https://github.com/wtfnotavailable/Discord-MusicBot/issues/208) in [wtfnotavailable/Discord-MusicBot](https://github.com/wtfnotavailable/Discord-MusicBot)
-5. 🗣 Commented on [#209](https://github.com/wtfnotavailable/Discord-MusicBot/issues/209#issuecomment-2046772868) in [wtfnotavailable/Discord-MusicBot](https://github.com/wtfnotavailable/Discord-MusicBot)
+1. 🗣 Commented on [#210](https://github.com/wtfnotavailable/Discord-MusicBot/issues/210#issuecomment-2047953438) in [wtfnotavailable/Discord-MusicBot](https://github.com/wtfnotavailable/Discord-MusicBot)
+2. 🔒 Closed issue [#210](https://github.com/wtfnotavailable/Discord-MusicBot/issues/210) in [wtfnotavailable/Discord-MusicBot](https://github.com/wtfnotavailable/Discord-MusicBot)
+3. 🗣 Commented on [#210](https://github.com/wtfnotavailable/Discord-MusicBot/issues/210#issuecomment-2047923625) in [wtfnotavailable/Discord-MusicBot](https://github.com/wtfnotavailable/Discord-MusicBot)
+4. 🗣 Commented on [#175](https://github.com/wtfnotavailable/Discord-MusicBot/issues/175#issuecomment-2046786567) in [wtfnotavailable/Discord-MusicBot](https://github.com/wtfnotavailable/Discord-MusicBot)
+5. 🔒 Closed issue [#203](https://github.com/wtfnotavailable/Discord-MusicBot/issues/203) in [wtfnotavailable/Discord-MusicBot](https://github.com/wtfnotavailable/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 
