@@ -32,11 +32,11 @@ https://blog.darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#230](https://github.com/wtfnotavailable/Discord-MusicBot/pull/230) in [wtfnotavailable/Discord-MusicBot](https://github.com/wtfnotavailable/Discord-MusicBot)
-2. 🗣 Commented on [#229](https://github.com/wtfnotavailable/Discord-MusicBot/issues/229#issuecomment-2046547862) in [wtfnotavailable/Discord-MusicBot](https://github.com/wtfnotavailable/Discord-MusicBot)
-3. 🗣 Commented on [#224](https://github.com/wtfnotavailable/Discord-MusicBot/pull/224#issuecomment-2046498351) in [wtfnotavailable/Discord-MusicBot](https://github.com/wtfnotavailable/Discord-MusicBot)
-4. 🎉 Merged PR [#484](https://github.com/DarrenOfficial/lavalink-list/pull/484) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-5. 🎉 Merged PR [#483](https://github.com/DarrenOfficial/lavalink-list/pull/483) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+1. 🗣 Commented on [#175](https://github.com/wtfnotavailable/Discord-MusicBot/issues/175#issuecomment-2046786567) in [wtfnotavailable/Discord-MusicBot](https://github.com/wtfnotavailable/Discord-MusicBot)
+2. 🔒 Closed issue [#203](https://github.com/wtfnotavailable/Discord-MusicBot/issues/203) in [wtfnotavailable/Discord-MusicBot](https://github.com/wtfnotavailable/Discord-MusicBot)
+3. 🗣 Commented on [#208](https://github.com/wtfnotavailable/Discord-MusicBot/issues/208#issuecomment-2046776236) in [wtfnotavailable/Discord-MusicBot](https://github.com/wtfnotavailable/Discord-MusicBot)
+4. 🔒 Closed issue [#208](https://github.com/wtfnotavailable/Discord-MusicBot/issues/208) in [wtfnotavailable/Discord-MusicBot](https://github.com/wtfnotavailable/Discord-MusicBot)
+5. 🗣 Commented on [#209](https://github.com/wtfnotavailable/Discord-MusicBot/issues/209#issuecomment-2046772868) in [wtfnotavailable/Discord-MusicBot](https://github.com/wtfnotavailable/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 
