@@ -32,11 +32,11 @@ https://blog.darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#210](https://github.com/wtfnotavailable/Discord-MusicBot/issues/210#issuecomment-2047953438) in [wtfnotavailable/Discord-MusicBot](https://github.com/wtfnotavailable/Discord-MusicBot)
-2. 🔒 Closed issue [#210](https://github.com/wtfnotavailable/Discord-MusicBot/issues/210) in [wtfnotavailable/Discord-MusicBot](https://github.com/wtfnotavailable/Discord-MusicBot)
-3. 🗣 Commented on [#210](https://github.com/wtfnotavailable/Discord-MusicBot/issues/210#issuecomment-2047923625) in [wtfnotavailable/Discord-MusicBot](https://github.com/wtfnotavailable/Discord-MusicBot)
-4. 🗣 Commented on [#175](https://github.com/wtfnotavailable/Discord-MusicBot/issues/175#issuecomment-2046786567) in [wtfnotavailable/Discord-MusicBot](https://github.com/wtfnotavailable/Discord-MusicBot)
-5. 🔒 Closed issue [#203](https://github.com/wtfnotavailable/Discord-MusicBot/issues/203) in [wtfnotavailable/Discord-MusicBot](https://github.com/wtfnotavailable/Discord-MusicBot)
+1. 🎉 Merged PR [#486](https://github.com/DarrenOfficial/lavalink-list/pull/486) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+2. 🗣 Commented on [#210](https://github.com/wtfnotavailable/Discord-MusicBot/issues/210#issuecomment-2047953438) in [wtfnotavailable/Discord-MusicBot](https://github.com/wtfnotavailable/Discord-MusicBot)
+3. 🔒 Closed issue [#210](https://github.com/wtfnotavailable/Discord-MusicBot/issues/210) in [wtfnotavailable/Discord-MusicBot](https://github.com/wtfnotavailable/Discord-MusicBot)
+4. 🗣 Commented on [#210](https://github.com/wtfnotavailable/Discord-MusicBot/issues/210#issuecomment-2047923625) in [wtfnotavailable/Discord-MusicBot](https://github.com/wtfnotavailable/Discord-MusicBot)
+5. 🗣 Commented on [#175](https://github.com/wtfnotavailable/Discord-MusicBot/issues/175#issuecomment-2046786567) in [wtfnotavailable/Discord-MusicBot](https://github.com/wtfnotavailable/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 
