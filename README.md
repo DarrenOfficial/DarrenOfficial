@@ -23,11 +23,11 @@ I like programming, networking and watching data go brrr
 ## New blog alert 📦
 https://blog.darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
+- [VF QEMU Disk Resizing Failure - Debian](https://blog.darrennathanael.com/posts/vf-qemu-disk/)
 - [[arch-announce] The xz package has been backdoored](https://blog.darrennathanael.com/posts/xz-package-backdoored/)
 - [To the endless forest](https://blog.darrennathanael.com/posts/to-the-endless-forest/)
 - [To the tears at martian sail](https://blog.darrennathanael.com/posts/to-the-tears-at-martian-sail/)
 - [Let The Heavens Open](https://blog.darrennathanael.com/posts/let-the-heavens-open/)
-- [Git Myself Because GitHub Cannot Be Trusted.](https://blog.darrennathanael.com/posts/git-myself/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Activity
