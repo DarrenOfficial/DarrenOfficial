@@ -23,11 +23,11 @@ I like programming, networking and watching data go brrr
 ## New blog alert 📦
 https://blog.darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
+- [June 2024&#39; Updates](https://blog.darrennathanael.com/posts/june-2024/)
 - [Lavalink’ Hotfix](https://blog.darrennathanael.com/posts/lavalink-hotfix/)
 - [It still haunt me everyday;](https://blog.darrennathanael.com/posts/it-still-haunt-me-everyday/)
 - [VF QEMU Disk Resizing Failure - Debian](https://blog.darrennathanael.com/posts/vf-qemu-disk/)
 - [[arch-announce] The xz package has been backdoored](https://blog.darrennathanael.com/posts/xz-package-backdoored/)
-- [To the endless forest](https://blog.darrennathanael.com/posts/to-the-endless-forest/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Activity
