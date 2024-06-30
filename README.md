@@ -32,11 +32,11 @@ https://blog.darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#248](https://github.com/DarrenOfficial/dpaste/issues/248#issuecomment-2156013542) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
-2. 🗣 Commented on [#214](https://github.com/DarrenOfficial/dpaste/issues/214#issuecomment-2092063411) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
-3. 🗣 Commented on [#214](https://github.com/DarrenOfficial/dpaste/issues/214#issuecomment-2091088487) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
-4. 🗣 Commented on [#214](https://github.com/DarrenOfficial/dpaste/issues/214#issuecomment-2083844652) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
-5. ❌ Closed PR [#1296](https://github.com/SudhanPlayz/Discord-MusicBot/pull/1296) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+1. 🗣 Commented on [#511](https://github.com/DarrenOfficial/lavalink-list/pull/511#issuecomment-2198433789) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+2. 🗣 Commented on [#248](https://github.com/DarrenOfficial/dpaste/issues/248#issuecomment-2156013542) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
+3. 🗣 Commented on [#214](https://github.com/DarrenOfficial/dpaste/issues/214#issuecomment-2092063411) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
+4. 🗣 Commented on [#214](https://github.com/DarrenOfficial/dpaste/issues/214#issuecomment-2091088487) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
+5. 🗣 Commented on [#214](https://github.com/DarrenOfficial/dpaste/issues/214#issuecomment-2083844652) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
 <!--END_SECTION:activity-->
 
 
