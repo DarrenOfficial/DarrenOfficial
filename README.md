@@ -32,11 +32,11 @@ https://blog.darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#518](https://github.com/DarrenOfficial/lavalink-list/pull/518) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-2. 💪 Opened PR [#350](https://github.com/Xyphyn/photon/pull/350) in [Xyphyn/photon](https://github.com/Xyphyn/photon)
-3. 💪 Opened PR [#46](https://github.com/redlib-org/redlib-instances/pull/46) in [redlib-org/redlib-instances](https://github.com/redlib-org/redlib-instances)
-4. 🎉 Merged PR [#252](https://github.com/DarrenOfficial/dpaste/pull/252) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
-5. 🗣 Commented on [#64](https://github.com/Meliox/PVE-mods/issues/64#issuecomment-2205874757) in [Meliox/PVE-mods](https://github.com/Meliox/PVE-mods)
+1. 🎉 Merged PR [#537](https://github.com/DarrenOfficial/lavalink-list/pull/537) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+2. 🎉 Merged PR [#518](https://github.com/DarrenOfficial/lavalink-list/pull/518) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+3. 💪 Opened PR [#350](https://github.com/Xyphyn/photon/pull/350) in [Xyphyn/photon](https://github.com/Xyphyn/photon)
+4. 💪 Opened PR [#46](https://github.com/redlib-org/redlib-instances/pull/46) in [redlib-org/redlib-instances](https://github.com/redlib-org/redlib-instances)
+5. 🎉 Merged PR [#252](https://github.com/DarrenOfficial/dpaste/pull/252) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
 <!--END_SECTION:activity-->
 
 
