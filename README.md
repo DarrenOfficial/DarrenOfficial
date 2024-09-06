@@ -32,11 +32,11 @@ https://blog.darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#257](https://github.com/DarrenOfficial/dpaste/issues/257#issuecomment-2325359713) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
-2. 🗣 Commented on [#256](https://github.com/DarrenOfficial/dpaste/issues/256#issuecomment-2325358869) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
-3. 🗣 Commented on [#247](https://github.com/DarrenOfficial/dpaste/issues/247#issuecomment-2324936668) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
-4. 🔒 Closed issue [#247](https://github.com/DarrenOfficial/dpaste/issues/247) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
-5. 🗣 Commented on [#247](https://github.com/DarrenOfficial/dpaste/issues/247#issuecomment-2323281587) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
+1. 🔒 Closed issue [#257](https://github.com/DarrenOfficial/dpaste/issues/257) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
+2. 🗣 Commented on [#257](https://github.com/DarrenOfficial/dpaste/issues/257#issuecomment-2325359713) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
+3. 🗣 Commented on [#256](https://github.com/DarrenOfficial/dpaste/issues/256#issuecomment-2325358869) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
+4. 🗣 Commented on [#247](https://github.com/DarrenOfficial/dpaste/issues/247#issuecomment-2324936668) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
+5. 🔒 Closed issue [#247](https://github.com/DarrenOfficial/dpaste/issues/247) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
 <!--END_SECTION:activity-->
 
 
