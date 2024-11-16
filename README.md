@@ -32,11 +32,11 @@ https://blog.darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#256](https://github.com/DarrenOfficial/dpaste/issues/256#issuecomment-2478748761) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
-2. 💪 Opened PR [#260](https://github.com/DarrenOfficial/dpaste/pull/260) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
-3. ❌ Closed PR [#71](https://github.com/redlib-org/redlib-instances/pull/71) in [redlib-org/redlib-instances](https://github.com/redlib-org/redlib-instances)
-4. 🎉 Merged PR [#591](https://github.com/DarrenOfficial/lavalink-list/pull/591) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-5. 🎉 Merged PR [#592](https://github.com/DarrenOfficial/lavalink-list/pull/592) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+1. 🔒 Closed issue [#256](https://github.com/DarrenOfficial/dpaste/issues/256) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
+2. 🎉 Merged PR [#260](https://github.com/DarrenOfficial/dpaste/pull/260) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
+3. 🗣 Commented on [#255](https://github.com/DarrenOfficial/dpaste/issues/255#issuecomment-2478756185) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
+4. 🗣 Commented on [#256](https://github.com/DarrenOfficial/dpaste/issues/256#issuecomment-2478748761) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
+5. 💪 Opened PR [#260](https://github.com/DarrenOfficial/dpaste/pull/260) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
 <!--END_SECTION:activity-->
 
 
