@@ -23,11 +23,11 @@ I like programming, networking and watching data go brrr
 ## New blog alert 📦
 https://blog.darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
+- [CoreProtect 1.21.x](https://blog.darrennathanael.com/posts/coreprotect-mc-1-21-3/)
 - [Migrating from mailcow to Apple](https://blog.darrennathanael.com/posts/moohoo-mailcow-to-apple/)
 - [The paradox of wanting to not exist](https://blog.darrennathanael.com/posts/paradox-of-death/)
 - [June 2024&#39; Updates](https://blog.darrennathanael.com/posts/june-2024/)
 - [Lavalink’ Hotfix](https://blog.darrennathanael.com/posts/lavalink-hotfix/)
-- [It still haunt me everyday;](https://blog.darrennathanael.com/posts/it-still-haunt-me-everyday/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Activity
