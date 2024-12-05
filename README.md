@@ -23,11 +23,11 @@ I like programming, networking and watching data go brrr
 ## New blog alert 📦
 https://blog.darrennathanael.com
 <!-- BLOG-POST-LIST:START -->
+- [The Goodnews - Chosen for His Purpose - Luke Edition 2024](https://blog.darrennathanael.com/posts/luke-05-2024/)
 - [The Goodnews - Healed - Luke Edition 2024](https://blog.darrennathanael.com/posts/luke-04-2024/)
 - [The Goodnews - The Edge Of Repentance - Luke Edition 2024](https://blog.darrennathanael.com/posts/luke-03-2024/)
 - [The Goodnews - The Birth Of Jesus - Luke Edition 2024](https://blog.darrennathanael.com/posts/luke-02-2024/)
 - [The Goodnews - Luke Edition 2024](https://blog.darrennathanael.com/posts/luke-01-2024/)
-- [CoreProtect 1.21.x](https://blog.darrennathanael.com/posts/coreprotect-mc-1-21-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Activity
