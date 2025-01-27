@@ -32,11 +32,11 @@ https://blog.darrennathanael.com
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#93](https://github.com/stashapp/Stash-Docs/pull/93) in [stashapp/Stash-Docs](https://github.com/stashapp/Stash-Docs)
-2. 🗣 Commented on [#239](https://github.com/wtfnotavailable/Discord-MusicBot/issues/239#issuecomment-2526381591) in [wtfnotavailable/Discord-MusicBot](https://github.com/wtfnotavailable/Discord-MusicBot)
-3. 🔒 Closed issue [#261](https://github.com/DarrenOfficial/dpaste/issues/261) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
-4. 🗣 Commented on [#261](https://github.com/DarrenOfficial/dpaste/issues/261#issuecomment-2510397648) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
-5. 🗣 Commented on [#261](https://github.com/DarrenOfficial/dpaste/issues/261#issuecomment-2510387145) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
+1. 🎉 Merged PR [#637](https://github.com/DarrenOfficial/lavalink-list/pull/637) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
+2. 💪 Opened PR [#93](https://github.com/stashapp/Stash-Docs/pull/93) in [stashapp/Stash-Docs](https://github.com/stashapp/Stash-Docs)
+3. 🗣 Commented on [#239](https://github.com/wtfnotavailable/Discord-MusicBot/issues/239#issuecomment-2526381591) in [wtfnotavailable/Discord-MusicBot](https://github.com/wtfnotavailable/Discord-MusicBot)
+4. 🔒 Closed issue [#261](https://github.com/DarrenOfficial/dpaste/issues/261) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
+5. 🗣 Commented on [#261](https://github.com/DarrenOfficial/dpaste/issues/261#issuecomment-2510397648) in [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste)
 <!--END_SECTION:activity-->
 
 
